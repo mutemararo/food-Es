@@ -1,0 +1,3695 @@
+{
+    "colors": [
+
+    {
+        "id": 1,
+        "code": "E100",
+        "name": "Curcuma (turmeric)",
+        "function": "food coloring (yellow-orange)",
+        "warnings": "Safe in recommended doses. High doses should not be taken by people with gallstones, obstructive jaundice, acute bilious colic or toxic liver disorders.",
+        "status": "Safe",
+        "foods": "Fats and oils, curry, processed cheese and fish fingers.",
+        "details": "Orange-yellow colouring extracted from the rhizomes of the turmeric plant."
+    },
+    {
+        "id": 2,
+        "code": "E101",
+        "name": "Riboflavin (Vitamin B2)",
+        "function": "food coloring (yellow-orange)",
+        "warnings": "",
+        "status": "Safe",
+        "foods": "Sauces, processed cheese and foods with added vitamins such as bread.",
+        "details": "Riboflavin is also known as vitamin B2. Obtained by fermenting yeast or synthesised artificially."
+    },
+    {
+        "id": 3,
+        "code": "E101a",
+        "name": "Riboflavin-5'-Phosphate",
+        "function": "food coloring (yellow-orange)",
+        "warnings": "",
+        "status": "",
+        "foods": "Found in many foods for babies and young children as well as jams, milk products and sweets and sugar products.",
+        "details": "Consists mainly of the monosodium salt of the 5'-monophosphate ester of riboflavin dihydrate obtained from chemical action on E101 Riboflavin. It is rapidly turned to free riboflavin after ingestion."
+    },
+    {
+        "id": 4,
+        "code": "E102",
+        "name": "Tartrazine (FD&C Yellow 5)",
+        "function": "food coloring (lemon yellow)",
+        "warnings": "Provokes asthma attacks, urticaria in children, linked to thyroid tumors, chromosomal damage. Tartrazine appears to cause the most allergic and/or intolerance reactions of all the azo dyes, particularly amongst those with an aspirin intolerance and asthmatics. Other reactions can include migraine, blurred vision, itching, rhinitis and purple skin patches. In conjunction with E210 tartrazine appears to create an over-activity in children.",
+        "status": "Unpermitted (Banned in Norway and Austria.)",
+        "foods": "Fruit squash, fruit cordial, coloured fizzy drinks, instant puddings, cake mixes, custard powder, soups, sauces, ice cream, ice lollies, sweets, chewing gum, marzipan, jam, jelly, marmalade, mustard, yoghurt and many convenience foods together with glycerine, lemon and honey products.",
+        "details": "Yellow coloured synthetic azo colour."
+    },
+    {
+        "id": 5,
+        "code": "E103",
+        "name": "Chrysoine resorcinol",
+        "function": "food coloring (golden)",
+        "warnings": "",
+        "status": "Forbidden (Banned in Europe since 1984. In the US, it was banned in 1988.)",
+        "foods": "",
+        "details": ""
+    },
+    {
+        "id": 6,
+        "code": "E104",
+        "name": "Quinoline Yellow",
+        "function": "food coloring (dull or greenish yellow)",
+        "warnings": "Cause dermatitis. Not recommended for consumption by children. HACSG recommends to avoid it.",
+        "status": "Not permitted. Banned in Australia, Japan, Norway and US.",
+        "foods": "Smoked fish, ice cream, scotch eggs and smoked haddock. Used in lipsticks hair products, colognes; also in a wide range of medications;",
+        "details": "The disodium salt of disulphonic acid. A synthetic 'coal tar' dye."
+    },
+    {
+        "id": 7,
+        "code": "E105",
+        "name": "Fast Yellow AB",
+        "function": "food coloring (yellow)",
+        "warnings": "",
+        "status": "Forbidden",
+        "foods": "",
+        "details": "An azo dye."
+    },
+    {
+        "id": 8,
+        "code": "E106",
+        "name": "Riboflavin-5-Sodium Phosphate",
+        "function": "food coloring (yellow)",
+        "warnings": "",
+        "status": "",
+        "foods": "",
+        "details": "Similar to E101a."
+    },
+    {
+        "id": 9,
+        "code": "E107",
+        "name": "Yellow 2G",
+        "function": "food coloring (yellow)",
+        "warnings": "People who suffer Asthma may also show an allergic reaction to it. HACSG recommends to avoid it.",
+        "status": "Banned in Austria, Japan, Norway, Sweden, Switzerland and US.",
+        "foods": "Typical products are soft drinks.",
+        "details": "It has the appearance of a yellow powder, soluble in water. It is a synthetic coal tar and yellow azo dye."
+    },
+    {
+        "id": 10,
+        "code": "E110",
+        "name": "Sunset Yellow FCF (Orange Yellow S)",
+        "function": "food coloring (yellow-orange)",
+        "warnings": "Urticaria (hives), rhinitis (runny nose), nasal congestion, allergies, hyperactivity, kidney tumors, chromosomal damage, abdominal pain, nausea and vomiting, indigestion, distaste for food; increased incidence of tumors in animals. It appears to cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance. Not recommended for consumption by children. HACSG recommends to avoid it.",
+        "status": "Banned in Finland, Norway & the UK (voluntarily). Products in the EU require warnings and is evaluating a phase-out.",
+        "foods": "Orange squash, orange jelly, marzipan, Swiss roll, apricot jam, citrus marmalade, lemon curd, sweets, hot chocolate mix and packet soups, breadcrumbs, cheese sauce, ice cream, canned fish, and many medications.",
+        "details": "A synthetic 'coal tar' and azo yellow dye used in fermented foods which must be heat treated."
+    },
+    {
+        "id": 11,
+        "code": "E111",
+        "name": "Orange GGN",
+        "function": "food coloring (orange)",
+        "warnings": "",
+        "status": "Forbidden",
+        "foods": "",
+        "details": "Orange GGN, also known as alpha-naphthol orange, is a food dye."
+    },
+    {
+        "id": 12,
+        "code": "E120",
+        "name": "Cochineal; Carminic acid; Carmines",
+        "function": "food coloring (crimson)",
+        "warnings": "May cause allergic reactions. Not recommended for consumption by children. HACSG recommends to avoid it.",
+        "status": "",
+        "foods": "Alcoholic drinks, bakery products and toppings, biscuits, desserts, drinks, icings, pie fillings, some varieties of cheddar cheese, sauces and sweets.",
+        "details": "An expensive red colouring, not suitable for vegetarians as it is extracted from the crushed carcasses of the female Dactylopius coccus, a cactus-feeding scale insect, which are killed by either immersion in hot water or by exposure to sunlight, steam, or the heat of an oven."
+    },
+    {
+        "id": 13,
+        "code": "E121",
+        "name": "Citrus Red 2",
+        "function": "food coloring (dark red)",
+        "warnings": "Carcinogen",
+        "status": "Forbidden (Permitted in the US.)",
+        "foods": "",
+        "details": "It is an orange to yellow solid or a dark red powder with a melting point of 156 °C."
+    },
+    {
+        "id": 14,
+        "code": "E122",
+        "name": "Carmoisine; Azorubine",
+        "function": "food coloring (red to maroon)",
+        "warnings": "It appears to cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance. Other reactions can include a rash similar to nettle rash and water retention. Not recommended for consumption by children. HACSG recommends to avoid it.",
+        "status": "Undergoing a voluntary phase-out in the UK, currently banned in Canada, Japan, Norway, USA & Sweden. EU currently evaluating health risks.",
+        "foods": "Foods which must be heat treated after fermentation. Also found in blancmange, marzipan, Swiss roll, jams and preserves, sweets, brown sauce, flavoured yogurts, packet soups, jellies, breadcrumbs and cheesecake mixes.",
+        "details": "Red coloured synthetic azo colour."
+    },
+    {
+        "id": 15,
+        "code": "E123",
+        "name": "Amaranth; FD&C Red 2",
+        "function": "food coloring (blue)",
+        "warnings": "It appears to cause allergic and/or intolerance reactions, similar to nettle rash, particularly amongst those with an aspirin intolerance or asthmatics. can provoke asthma, eczema and hyperactivity; it caused birth defects and foetal deaths in some animal tests, possibly also cancer. Not recommended for consumption by children.",
+        "status": "Forbidden (Banned in the United States in 1976. Several countries still use it!)",
+        "foods": "Ice creams, gravy granules, jams, jelly, tinned fruit pie fillings and prawns and packeted cake mixes, soups and trifles.",
+        "details": "Derived from the small herbaceous plant of the same name. A purplish-red (blackcurrant) synthetic coal tar or azo dye."
+    },
+    {
+        "id": 16,
+        "code": "E124",
+        "name": "Ponceau 4R; Cochineal Red A, Brilliant Scarlet 4R",
+        "function": "food coloring (red)",
+        "warnings": "It appears to cause allergic and/or intolerance reactions particularly amongst those with an aspirin intolerance or asthmatics. Carcinogen in animals. Not recommended for consumption by children. HACSG recommends to avoid it.",
+        "status": "Unpermitted (Banned in Norway and USA)",
+        "foods": "Sessert toppings, jelly, salami, seafood dressings, tinned strawberries and fruit pie fillings and packeted cake mixes, cheesecakes, soups and trifles.",
+        "details": "A red synthetic coal tar or azo dye."
+    },
+    {
+        "id": 17,
+        "code": "E125",
+        "name": "Ponceau SX; Scarlet GN",
+        "function": "food coloring (red)",
+        "warnings": "",
+        "status": "Forbidden",
+        "foods": "",
+        "details": "A red azo dye."
+    },
+    {
+        "id": 18,
+        "code": "E126",
+        "name": "Ponceau 6R",
+        "function": "food coloring (red)",
+        "warnings": "",
+        "status": "Forbidden",
+        "foods": "",
+        "details": "A red azo dye. It is soluble in water and slightly soluble in ethanol."
+    },
+    {
+        "id": 19,
+        "code": "E127",
+        "name": "Erythrosine (FD&C Red 3)",
+        "function": "food coloring (red)",
+        "warnings": "Because food processing at temperatures above 200°c partly degrades Erythrosine, releasing iodide, there are fears that it could affect thyroid activity, can increase thyroid hormone levels and lead to hyperthyroidism, was shown to cause thyroid cancer in rats in a study in 1990. It is toxic to some strains of yeast cells and is also implicated in phototoxicity (a sensitivity to light). Not recommended for consumption by children. HACSG recommends to avoid it.",
+        "status": "Unpermitted (Banned in Norway and USA.)",
+        "foods": "Cocktail, glacé and tinned cherries, canned fruit, custard mix, sweets, bakery, snack foods, biscuits, chocolate, dressed crab, garlic sausage, luncheon meat, salmon spread, paté, scotch eggs, stuffed olives and packet trifle mix. It is also used to reveal plaque in dental disclosing tablets.",
+        "details": "A cherry-pink/red synthetic coal tar dye."
+    },
+    {
+        "id": 20,
+        "code": "E128",
+        "name": "Red 2G",
+        "function": "food coloring (red)",
+        "warnings": "Concerns that it can interfere with blood haemoglobin. Not recommended for consumption by children.",
+        "status": "Forbidden (Used in Britain.)",
+        "foods": "Meat products and sausages but can also be found in jams and drinks.",
+        "details": "A red synthetic coal tar or azo dye."
+    },
+    {
+        "id": 21,
+        "code": "E129",
+        "name": "Allura Red AC (FD&C Red 40)",
+        "function": "food coloring (red)",
+        "warnings": "May have slightly less allergy/intolerance reaction by aspirin intolerant people and asthmatics than most of the azo dyes, although those with skin sensitivities should be careful. Allura red has also been connected with cancer in mice. Not recommended for consumption by children.",
+        "status": "Permitted in the US and by the EU (Banned in Denmark, Belgium, France, Switzerland & Sweden. Undergoing a voluntary phase out in the UK.)",
+        "foods": "Sweets, drinks and condiments, medications and cosmetics.",
+        "details": "A red synthetic azo dye introduced in the early eighties to replace Amaranth, E123, in USA where E123 is prohibited."
+    },
+    {
+        "id": 22,
+        "code": "E130",
+        "name": "Indanthrene blue RS",
+        "function": "food coloring (blue)",
+        "warnings": "",
+        "status": "Forbidden",
+        "foods": "",
+        "details": "Indanthrene Blue RS was patented in 1901 by Rene Bohn as the first anthraquinone vat dye, one of the dyes with very good fastness to light and washing. It is used to dye unmordanted cotton and as a pigment in quality paints and enamels."
+    },
+    {
+        "id": 23,
+        "code": "E131",
+        "name": "Patent Blue V",
+        "function": "food coloring (dark blue)",
+        "warnings": "Best avoided by people with allergy reactions as it can cause skin sensitivity, a rash similar to nettle rash, itching, nausea, low blood pressure, tremors and breathing problems.",
+        "status": "Dangerous (Banned in Australia, USA and Norway.)",
+        "foods": "Not widely used but can be found in Scotch eggs and is used diagnostically to colour lymph vessels.",
+        "details": "A dark bluish-violet synthetic coal tar dye."
+    },
+    {
+        "id": 24,
+        "code": "E132",
+        "name": "Indigo carmine; FD&C Blue 2",
+        "function": "food coloring (reddish blue)",
+        "warnings": "People with allergies should avoid it. May cause nausea, vomiting, high blood pressure, skin rashes, breathing problems and other allergic reactions.",
+        "status": "Banned in Norway.",
+        "foods": "Commonly added to tablets and capsules; also used in ice cream, sweets, baked goods, confectionery, biscuits. It is also used diagnostically to check for coloured urine in kidney function tests.",
+        "details": "A blue synthetic coal tar dye, normally produced by a synthesis of indoxyl by fusion of sodium phenylglycinate in a mixture of caustic soda and sodamide."
+    },
+    {
+        "id": 25,
+        "code": "E133",
+        "name": "Brilliant Blue FCF (FD&C Blue 1)",
+        "function": "food coloring (reddish blue)",
+        "warnings": "Not recommended for consumption by children. HACSG recommends to avoid it.",
+        "status": "Banned in Austria, Belgium, Denmark, France, Germany, Greece, Italy, Norway, Spain, Sweden and Switzerland.",
+        "foods": "Can be found in tinned processed peas, dairy products, sweets and drinks.",
+        "details": "A blue synthetic coal tar dye often used in conjunction with E102, Tartrazine, to produce various shades of green."
+    },
+    {
+        "id": 26,
+        "code": "E140",
+        "name": "Chlorophylls and chlorophyllins",
+        "function": "food coloring (green)",
+        "warnings": "Has no maximum recommended daily intake and is not subject to any prohibitions.",
+        "status": "",
+        "foods": "Used for dyeing waxes and oils, used in medicines and cosmetics eg in chewing gum, fats and oils, ice cream, soaps, soups, sweets and, obviously, green vegetables.",
+        "details": "A fairly unstable dye, which tends to fade easily."
+    },
+    {
+        "id": 27,
+        "code": "E141",
+        "name": "Copper complexes of chlorophylls and chlorophyllins",
+        "function": "food coloring (green)",
+        "warnings": "No adverse effects are known.",
+        "status": "",
+        "foods": "Found in some types of cheese, chewing gum, ice cream, Parsley sauce, soups and green vegetables and fruits preserved in liquids.",
+        "details": "Derived from Chlorophyll, E140, by substitution of copper for the magnesium, which increases stability."
+    },
+    {
+        "id": 28,
+        "code": "E142",
+        "name": "Green S",
+        "function": "food coloring (green)",
+        "warnings": "Known to cause hyperactivity, asthma, uticaria, and insomnia. HACSG recommends to avoid it.",
+        "status": "Unpermitted (Banned in Canada, Finland, Japan, Norway, Sweden and the US.)",
+        "foods": "Desserts, gravy granules, ice cream, mint sauce, sweets, packet breadcrumbs, cake mixes and tinned peas.",
+        "details": "A green synthetic coal tar dye."
+    },
+    {
+        "id": 29,
+        "code": "E143",
+        "name": "Fast Green FCF (FD&C Green 3)",
+        "function": "food coloring (sea green)",
+        "warnings": "Found to have Tumorigenic effects in experimental animals, as well as Mutagenic effects in both experimental animals and humans. It furthermore risks irritation of eyes, skin, digestive tract, and respiratory tract in its undiluted form.",
+        "status": "",
+        "foods": "It can be used for tinned green peas and other vegetables, jellies, sauces, fish, desserts, and dry bakery mixes at level of up to 100 mg/kg.",
+        "details": "A sea green triarylmethane food dye."
+    },
+    {
+        "id": 30,
+        "code": "E153",
+        "name": "Vegetable carbon",
+        "function": "food coloring",
+        "warnings": "Suspected as a carcinogenic agent. Vegetarians should note that it can be of animal origin.",
+        "status": "Banned in USA. Still used in Australia.",
+        "foods": "Concentrated fruit juices, jams, jellies and liquorice.",
+        "details": "It is normally derived from burnt vegetable matter."
+    },
+    {
+        "id": 31,
+        "code": "E154",
+        "name": "Brown FK",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "Not permitted (Permitted in UK.)",
+        "foods": "Found mainly in kippers and smoked mackerel but also occasionally in cooked hams and crisps.",
+        "details": "A highly suspect brown mixture of six synthetic azo dyes together with other colourings and sodium chloride and/or sodium sulphate."
+    },
+    {
+        "id": 32,
+        "code": "E155",
+        "name": "Brown HT",
+        "function": "food coloring",
+        "warnings": "Bad reactions in asthmatics and people allergic to aspirin, also known to induce skin sensitivity. HACSG recommends to avoid it.",
+        "status": "Banned in Australia, Austria, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and USA.",
+        "foods": "Chocolate cake mixes.",
+        "details": "A brown synthetic 'coal tar' and azo dye found mainly in chocolate flavour cakes."
+    },
+    {
+        "id": 33,
+        "code": "E160a",
+        "name": "Carotenes",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "",
+        "foods": "Butter and soft margarines, coffee sponge cakes, milk products and soft drinks.",
+        "details": "Orange or yellow plant pigments. Converts to vitamin A in the body."
+    },
+    {
+        "id": 34,
+        "code": "E160b",
+        "name": "Annatto; Bixin; Norbixin",
+        "function": "food coloring",
+        "warnings": "Known to cause urticaria (nettle rash), the HACSG recommends to avoid it.",
+        "status": "Dangerous",
+        "foods": "Cheese, coleslaw, crisps, custard, fish fingers, flavoured instant mashed potato, fruit and cream fillings and toppings, frying oil, ice cream and lollies, icings, liqueurs, low calorie spreads, margarine, meat balls, salad cream and mayonnaise, smoked fish, soft drinks, sponge cakes and puddings, steak and kidney pie pastry and yoghurt.",
+        "details": "A yellow, peach or red vegetable dye obtained from the seed coat of the fruit of the Annatto tree, Bixa orellana."
+    },
+    {
+        "id": 35,
+        "code": "E160c",
+        "name": "Paprika extract; Capsanthian; Capsorubin",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "Not permitted in Australia.",
+        "foods": "Used widely in poultry feed to deepen the colour of egg yolks (see also E161b) it can also be found in cheese slices and chicken pies.",
+        "details": "An orange to red color extracted from the fruit pod and seeds of the red pepper, Capsicum annuum."
+    },
+    {
+        "id": 36,
+        "code": "E160d",
+        "name": "Lycopene",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "Not permitted in Australia.",
+        "foods": "Canned tomatoes.",
+        "details": "A red colour extracted from tomatoes and pink grapefruit."
+    },
+    {
+        "id": 37,
+        "code": "E160e",
+        "name": "Beta-apo-8' carotenal (C30)",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "",
+        "foods": "Processed cheese.",
+        "details": "Orange-yellow synthetic colour."
+    },
+    {
+        "id": 38,
+        "code": "E160f",
+        "name": "Ethyl ester of beta-apo-8'-carotenic acid (C 30)",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "",
+        "foods": "Cheese",
+        "details": "Synthesised version of a naturally-occuring orange colour."
+    },
+    {
+        "id": 39,
+        "code": "E161b",
+        "name": "Lutein",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "",
+        "foods": "Eggs",
+        "details": "Yellow-red colour extracted from plants. related to the carotenes (E160a). Can be added to chicken feed to enhance colour of egg yolk."
+    },
+    {
+        "id": 40,
+        "code": "E161g",
+        "name": "Canthaxanthin",
+        "function": "food coloring",
+        "warnings": "Found to accumulate on the retina, having a detrimental effect on eyesight.",
+        "status": "",
+        "foods": "Used in such products as chicken in breadcrumbs, fish fingers, mallow biscuits, pickles and preserves, sauces and sweets it is also fed to laying hens to make to colour egg yolks.",
+        "details": "Yellow color, historically it was prepared from shrimp waste or flaming feathers. Synthetic cantaxanthin is cheaper and has higher purity."
+    },
+    {
+        "id": 41,
+        "code": "E162",
+        "name": "Beetroot Red; Betanin",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "",
+        "foods": "Bacon burgers, desserts, ice cream, jams, jellies, liquorice, oxtail soup, sauces and sweets.",
+        "details": "purple color derived from beets"
+    },
+    {
+        "id": 42,
+        "code": "E163",
+        "name": "Anthocyanins",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "Safe",
+        "foods": "Black cherry yoghurt, dairy products, glacé cherries, ice cream, jellies, pickles, soft drinks, tomato, carrot or vegetable soups and sweets.",
+        "details": "Red-blue colours that are obtained from a variety of plant sources, especially grapes and red cabbage."
+    },
+    {
+        "id": 43,
+        "code": "E170",
+        "name": "Calcium carbonate",
+        "function": "food coloring",
+        "warnings": "Toxic at 'high doses'.",
+        "status": "",
+        "foods": "Biscuits, bread, cakes, ice cream, sweets, vitamin and other tablets and to firm canned fruit and vegetables, it is sometimes used for to deacidify wine. Also used in toothpastes, white paint and cleaning powders.",
+        "details": "Chalk. Used as a white colour. As it is an alkali, it may be also used to regulate the pH of foods such as canned fruits and vegetables."
+    },
+    {
+        "id": 44,
+        "code": "E171",
+        "name": "Titanium dioxide",
+        "function": "food coloring (pure white)",
+        "warnings": "Safe but pollutes waterways.",
+        "status": "",
+        "foods": "Tablets and capsules, cottage and Mozzarella cheeses, horseradish cream and sauces, lemon curd, toothpaste, and white paint, also in sweets.",
+        "details": "White, mineral-based colour."
+    },
+    {
+        "id": 45,
+        "code": "E172",
+        "name": "Iron oxides and hydroxides",
+        "function": "food coloring",
+        "warnings": "Toxic at 'high doses'.",
+        "status": "Banned in Germany.",
+        "foods": "Cake and dessert mixes, meat paste, salmon and shrimp paste.",
+        "details": "Naturally occurring pigments of iron, which can be yellow, red, orange, brown or black in colour."
+    },
+    {
+        "id": 46,
+        "code": "E173",
+        "name": "Aluminium",
+        "function": "food coloring",
+        "warnings": "Potentially toxic.",
+        "status": "Not permitted.",
+        "foods": "Used solely for external decoration.",
+        "details": "Silvery-white metal smelted from the ore, Bauxite."
+    },
+    {
+        "id": 47,
+        "code": "E174",
+        "name": "Silver",
+        "function": "food coloring",
+        "warnings": "Long, regular consumption can lead to kidney damage and a blue-grey discoloration of the eyes, nose and nasal septum, throat and skin.",
+        "status": "Not permitted.",
+        "foods": "Used solely for external decoration.",
+        "details": "Silver coloured surface coating."
+    },
+    {
+        "id": 48,
+        "code": "E175",
+        "name": "Gold",
+        "function": "food coloring",
+        "warnings": "Harmless, but best avoided.",
+        "status": "Not permitted in Australia.",
+        "foods": "Used solely for external decoration.",
+        "details": "Gold coloured surface coating."
+    },
+    {
+        "id": 49,
+        "code": "E180",
+        "name": "Pigment Rubine; Lithol Rubine BK",
+        "function": "food coloring",
+        "warnings": "People who suffer from asthma, rhinitis or the skin disease urticaria may find their symptoms become worse following consumption of azo dyes.",
+        "status": "Not permitted",
+        "foods": "Exterior of hard cheese.",
+        "details": "Red synthetic colour."
+    },
+    {
+        "id": 50,
+        "code": "E181",
+        "name": "Tannin",
+        "function": "food coloring",
+        "warnings": "",
+        "status": "",
+        "foods": "Clarifying agent in alcohol.",
+        "details": "Derived from the nutgalls and twigs of oak trees; occurs naturally in tea."
+    }
+
+    ],
+    "preservatives": [
+        {
+            "id": 1,
+            "code": "E200",
+            "name": "Sorbic acid",
+            "function": "preservative",
+            "warnings": "A possible skin irritant.",
+            "status": "Forbidden in Australia.",
+            "foods": "Drinks, dairy products, fish, seafood, fat-based products, baked foods and confectionery.",
+            "details": "Either obtained from berries or synthesised from ketene."
+        },
+        {
+            "id": 2,
+            "code": "E201",
+            "name": "Sodium sorbate",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 3,
+            "code": "E202",
+            "name": "Potassium sorbate",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, yoghurt, cheese, wine.",
+            "details": "Helps to prevent the growth of microbes on food. Related to Sorbic acid (E200). Effective in a wide range of foods. Does not have any flavour or taste."
+        },
+        {
+            "id": 4,
+            "code": "E203",
+            "name": "Calcium sorbate",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, yoghurt, fruit juice.",
+            "details": "Helps to prevent the growth of microbes on food. Related to Sorbic acid (E200). Effective in a wide range of foods. Does not have any flavour or taste."
+        },
+        {
+            "id": 5,
+            "code": "E210",
+            "name": "Benzoic acid",
+            "function": "preservative",
+            "warnings": "Can cause asthma, hyperactivity in children. The HACSG recommends to avoid it.",
+            "status": "Not permitted.",
+            "foods": "Beer, fruit juice, yoghurt, soft drinks.",
+            "details": "Prevents the growth of microbes in acidic environments."
+        },
+        {
+            "id": 6,
+            "code": "E211",
+            "name": "Sodium benzoate",
+            "function": "preservative",
+            "warnings": "Known to causes nettle rash and aggravate asthma. HACSG recommends to avoid it.",
+            "status": "",
+            "foods": "Beer, fruit juice, yoghurt, soft drinks.",
+            "details": "Prevents the growth of microbes in acidic environments."
+        },
+        {
+            "id": 7,
+            "code": "E212",
+            "name": "Potassium benzoate",
+            "function": "preservative",
+            "warnings": "People with a history of allergies may show allergic reactions.",
+            "status": "",
+            "foods": "Fruit juice concentrate and margarine.",
+            "details": "Prevents the growth of microbes in acidic environments."
+        },
+        {
+            "id": 8,
+            "code": "E212",
+            "name": "Potassium benzoate",
+            "function": "preservative",
+            "warnings": "People with a history of allergies may show allergic reactions.",
+            "status": "",
+            "foods": "Fruit juice concentrate and margarine.",
+            "details": "Prevents the growth of microbes in acidic environments."
+        },
+        {
+            "id": 9,
+            "code": "E213",
+            "name": "Calcium benzoate",
+            "function": "preservative",
+            "warnings": "See E212.",
+            "status": "",
+            "foods": "Pineapple juice concentrate.",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 10,
+            "code": "E214",
+            "name": "Ethyl p-hydroxybenzoate",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Dangerous (Not permitted in France and Australia.)",
+            "foods": "Beer, fruit juices, preserves.",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 11,
+            "code": "E215",
+            "name": "Sodium ethyl p-hydroxybenzoate",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Not permitted in Australia.",
+            "foods": "Fruit juices",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 12,
+            "code": "E216",
+            "name": "Propyl p-hydroxybenzoate",
+            "function": "preservative",
+            "warnings": "Possible contact allergen.",
+            "status": "Forbidden",
+            "foods": "Beer, sauces, fruit juices, salad cream.",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 13,
+            "code": "E217",
+            "name": "Sodium propyl p-hydroxybenzoate",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Forbidden. (Not permitted in Australia.)",
+            "foods": "Fruit juices",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 14,
+            "code": "E218",
+            "name": "Methyl p-hydroxybenzoate",
+            "function": "preservative",
+            "warnings": "Allergic reactions possible, mainly affecting the skin.",
+            "status": "Not permitted in France and Australia.",
+            "foods": "Beer, fruit juices, preserves.",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 15,
+            "code": "E219",
+            "name": "Sodium methyl p-hydroxybenzoate",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Not permitted in France and Australia.",
+            "foods": "Beer, fruit juices, preserves.",
+            "details": "Prevents the growth of microbes, especially fungi."
+        },
+        {
+            "id": 16,
+            "code": "E220",
+            "name": "Sulphur dioxide",
+            "function": "preservative",
+            "warnings": "Known to provoke asthma attacks, difficult to metabolize, destroys vitamin B1. The HACSG recommends to avoid it.",
+            "status": "",
+            "foods": "Fruit juices, beers, wines, dried vegetables, sausages.",
+            "details": "One of the earliest preservatives known to humans. Sulfur dioxide has been used for centuries to prevent the growth of bacteria in beers and wines. It can be used in many situations to prevent microbial growth."
+        },
+        {
+            "id": 17,
+            "code": "E221",
+            "name": "Sodium sulphite",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health. See 220.",
+            "status": "",
+            "foods": "Meats, beer, wine.",
+            "details": "Similar in action to sulfur dioxide. Sodium sulfite is regularly used in brewing and wine making to sterilise equipment. In foods it prevents microbial growth (especially salmonella). It also prevents the discolouration of meat, peeled apples and potatoes."
+        },
+        {
+            "id": 18,
+            "code": "E222",
+            "name": "Sodium hydrogen sulphite",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health. See 220.",
+            "status": "",
+            "foods": "Fruit juices, beers, wines, frozen chips.",
+            "details": "Used to prevent the growth of bacteria in beers and wines. It can be used in many situations to prevent microbial growth."
+        },
+        {
+            "id": 19,
+            "code": "E223",
+            "name": "Sodium metabisuiphite",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health. See 220.",
+            "status": "",
+            "foods": "Fruit juices, dried potatoes, beers.",
+            "details": "Prevents microbial growth."
+        },
+        {
+            "id": 20,
+            "code": "E224",
+            "name": "Potassium metabisulphite",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health. See 220.",
+            "status": "",
+            "foods": "Frozen chips, beer and wine.",
+            "details": "Prevents microbial growth, especially used in home brewing and wine making."
+        },
+        {
+            "id": 21,
+            "code": "E226",
+            "name": "Calcium sulphite",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Not permitted in Australia.",
+            "foods": "Beers, fruit juices.",
+            "details": "Used in brewing and wine making to sterilise equipment and prevent microbial growth."
+        },
+        {
+            "id": 22,
+            "code": "E227",
+            "name": "Calcium hydrogen sulphite",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Not permitted in Australia.",
+            "foods": "Beers, jam.",
+            "details": "Used in brewing and wine making to sterilise equipment and prevent microbial growth."
+        },
+        {
+            "id": 23,
+            "code": "E228",
+            "name": "Potassium hydrogen sulphite",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health. See 220.",
+            "status": "",
+            "foods": "Hamburgers, sausages, beer, dried potatoes.",
+            "details": "Slows the growth of food-spoiling micro-organisms."
+        },
+        {
+            "id": 24,
+            "code": "E230",
+            "name": "Biphenyl; diphenyl",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Dangerous (Not permitted in Australia.)",
+            "foods": "Fruits",
+            "details": "Prevents the growth of moulds such as Penicillium sp. on the surface of fruits."
+        },
+        {
+            "id": 25,
+            "code": "E231",
+            "name": "Orthophenyl phenol",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Dangerous (Not permitted in Australia.)",
+            "foods": "Oranges, lemons and limes.",
+            "details": "Prevents the growth of microbes. Applied to the surface of fruits or their wrappings."
+        },
+        {
+            "id": 26,
+            "code": "E232",
+            "name": "Sodium orthophenyl phenol",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries. See 231.",
+            "status": "Dangerous",
+            "foods": "Oranges, lemons and limes.",
+            "details": "Prevents the growth of microbes. Applied to the surface of fruits or their wrappings."
+        },
+        {
+            "id": 27,
+            "code": "E233",
+            "name": "Thiabendazole",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Not permitted in Australia.",
+            "foods": "Citrus fruits, apples, pears, potatoes, bananas, mushrooms, meat, milk.",
+            "details": ""
+        },
+        {
+            "id": 28,
+            "code": "E234",
+            "name": "Nisin",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Cheese",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 29,
+            "code": "E235",
+            "name": "Natamycin",
+            "function": "preservative",
+            "warnings": "Can cause nausea, vomiting, anorexia, diarrhea and skin irritation.",
+            "status": "",
+            "foods": "Cheese",
+            "details": "Antimicrobial that prevents the growth of fungi in cheeses."
+        },
+        {
+            "id": 30,
+            "code": "E236",
+            "name": "Formic acid",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Not permitted in Australia.",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 31,
+            "code": "E237",
+            "name": "Sodium formate",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 32,
+            "code": "E238",
+            "name": "Calcium formate",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 33,
+            "code": "E239",
+            "name": "Hexamethylene tetramine",
+            "function": "preservative",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Dangerous (Not permitted in Australia.)",
+            "foods": "Smoked fish",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 34,
+            "code": "E242",
+            "name": "Dimethyl dicarbonate",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Fruit juices, beers, wines",
+            "details": "Prevents the growth of microbes."
+        },
+        {
+            "id": 35,
+            "code": "E249",
+            "name": "Potassium nitrite",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health. May cause dizzynesss, headaches, difficult breathing,potential carcinogen.",
+            "status": "",
+            "foods": "Cooked meats",
+            "details": "Prevents the growth of the botulism bacteria (Clostridium botulinum) in meat."
+        },
+        {
+            "id": 36,
+            "code": "E250",
+            "name": "Sodium nitrite",
+            "function": "preservative",
+            "warnings": "Potentially carcinogenic, restricted in many countries. The HACSG recommends to avoid it (see 249).",
+            "status": "",
+            "foods": "Cooked meats",
+            "details": "Prevents the growth of the botulism bacteria (Clostridium botulinum) in meat."
+        },
+        {
+            "id": 37,
+            "code": "E251",
+            "name": "Sodium nitrate",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health",
+            "status": "",
+            "foods": "Processed meats, cheese, pizza.",
+            "details": "Reduces the growth of toxic micro-organisms in meat."
+        },
+        {
+            "id": 38,
+            "code": "E252",
+            "name": "Potassium nitrate",
+            "function": "preservative",
+            "warnings": "May provoke hyperactivity and other adverse reactions; potentially carcinogenic; restricted in many countries (see 249).",
+            "status": "",
+            "foods": "Meats",
+            "details": "Prevents the growth of the bacteria that causes botulism (Clostridium botulinum)."
+        },
+        {
+            "id": 39,
+            "code": "E260",
+            "name": "Acetic acid",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Pickles, bread, salad cream, processed cheese, beer.",
+            "details": "Reduces the growth of bacteria and can also be used to regulate the acidity of foods."
+        },
+        {
+            "id": 40,
+            "code": "E261",
+            "name": "Potassium acetate",
+            "function": "preservative",
+            "warnings": "Should be avoided by people with impaired kidney function.",
+            "status": "",
+            "foods": "Sauces, pickles. Baked goods.",
+            "details": "Food acid."
+        },
+        {
+            "id": 41,
+            "code": "E262",
+            "name": "Sodium acetate; Sodium diacetate",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Bread, crisps.",
+            "details": "Food acid, acidity regulator."
+        },
+        {
+            "id": 42,
+            "code": "E263",
+            "name": "Calcium acetate",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Bread",
+            "details": "Calcium salt of acetic acid. Reduces the growth of fungi in bread."
+        },
+        {
+            "id": 43,
+            "code": "E264",
+            "name": "Ammonium acetate",
+            "function": "preservative",
+            "warnings": "Can cause nausea and vomiting.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 44,
+            "code": "E270",
+            "name": "Lactic acid",
+            "function": "preservative",
+            "warnings": "Difficult for babies to metabolize.",
+            "status": "",
+            "foods": "Sweets, dressings, soft drinks (sometimes beer) infant formulas and confectionary.",
+            "details": "Made by bacterial fermentation on sugar waste (molasses)."
+        },
+        {
+            "id": 45,
+            "code": "E280",
+            "name": "Propionic acid",
+            "function": "preservative",
+            "warnings": "Dangerous additives for health",
+            "status": "",
+            "foods": "Bread, yoghurt, cheese.",
+            "details": "Naturally-occuring fatty acid. Reduces the growth of fungi."
+        },
+        {
+            "id": 46,
+            "code": "E281",
+            "name": "Sodium propionate",
+            "function": "preservative",
+            "warnings": "Linked to migraines.",
+            "status": "",
+            "foods": "Bread, cheese.",
+            "details": "Prevents the growth of bacteria in breads."
+        },
+        {
+            "id": 47,
+            "code": "E282",
+            "name": "Calcium propionate",
+            "function": "preservative",
+            "warnings": "Linked to migraines.",
+            "status": "",
+            "foods": "Bread, cheese.",
+            "details": "Prevents the growth of bacteria in breads."
+        },
+        {
+            "id": 48,
+            "code": "E283",
+            "name": "Potassium propionate",
+            "function": "preservative",
+            "warnings": "Linked to migraines.",
+            "status": "",
+            "foods": "Bread, cheese.",
+            "details": "Prevents the growth of bacteria in breads."
+        },
+        {
+            "id": 49,
+            "code": "E284",
+            "name": "Boric acid",
+            "function": "preservative",
+            "warnings": "Ingestion is harmful and may be fatal. Harmful by inhalation. An irritant. May cause congenital malformation in the foetus. Laboratory tests with animals suggest this material may cause reproductive disorders.",
+            "status": "",
+            "foods": "Caviar.",
+            "details": "Used on the surface to prevent spoilage."
+        },
+        {
+            "id": 50,
+            "code": "E285",
+            "name": "Sodium tetraborate; borax",
+            "function": "preservative",
+            "warnings": "Possible risk that this may cause reproductive disorders, based on tests with laboratory animals. Eye and skin irritant. Harmful by ingestion. May be harmful by inhalation.",
+            "status": "",
+            "foods": "Caviar.",
+            "details": "Used on the surface to prevent spoilage."
+        },
+        {
+            "id": 51,
+            "code": "E290",
+            "name": "Carbon dioxide",
+            "function": "preservative",
+            "warnings": "May increase the effect of alcohol.",
+            "status": "",
+            "foods": "Wine, soft drinks, confectionary.",
+            "details": "Gas. Propellant, coolant, derived from lime manufacture."
+        },
+        {
+            "id": 52,
+            "code": "E296",
+            "name": "Malic acid",
+            "function": "preservative",
+            "warnings": "Infants and young children should avoid it.",
+            "status": "",
+            "foods": "Carbonated drinks, tinned soups, frozen chips, processed peas.",
+            "details": "Derived from fruit or synthetic."
+        },
+        {
+            "id": 53,
+            "code": "E297",
+            "name": "Fumaric acid",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Yoghurt, jam.",
+            "details": "Naturally occuring compound. Derived from plants of the genus Fumaria."
+        }
+    ],
+    "antioxidants, acidity regulators": [
+        {
+            "id": 1,
+            "code": "E300",
+            "name": "Ascorbic acid",
+            "function": "antioxidant",
+            "warnings": "", 
+            "status": "Safe",
+            "foods": "Beers, cut fruits, jams, dried potato.",
+            "details": "Helps to prevent cut and pulped foods from going brown by preventing the oxidation reactions that cause the discolouration. Can be added to foods, such as potato, to replace vitamin C lost in processing."
+        },
+        {
+            "id": 2,
+            "code": "E301",
+            "name": "Sodium ascorbate",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "Safe",
+            "foods": "Processed meats, sausages, baby foods.",
+            "details": "Helps to prevent oxidation reactions that can discolour foods. Sodium salt of vitamin C."
+        },
+        {
+            "id": 3,
+            "code": "E302",
+            "name": "Calcium ascorbate",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "Safe",
+            "foods": "Processed meats, soup.",
+            "details": "Helps to prevent oxidation reactions that can discolour foods. Vitamin C, may increase the formation of calcium oxalate stones."
+        },
+        {
+            "id": 4,
+            "code": "E303",
+            "name": "Potassium ascorbate",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Potassium salt of vitamin C."
+        },
+        {
+            "id": 5,
+            "code": "E304",
+            "name": "Fatty acid esters of ascorbic acid",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "Safe",
+            "foods": "Fats and cooking oils.",
+            "details": "Helps to prevent oxidation reactions that can discolour foods."
+        },
+        {
+            "id": 6,
+            "code": "E306",
+            "name": "Tocopherols",
+            "function": "antioxidant",
+            "warnings": "May come from Genetically Modified sources.",
+            "status": "Safe",
+            "foods": "Found in most foods, it is abundant in, amongst other things, whole grain cereals, corn and cottonseed oils, egg yolks, meat and milk.",
+            "details": "Vitamin E, known as the anti-sterility vitamin. Reduces oxidation of fatty acids and some vitamins. Commercially it can be extracted, by distillation in a vacuum, from cottonseed, maize, rice germ, soya been oil, wheat germ, or green leaves."
+        },
+        {
+            "id": 7,
+            "code": "E307",
+            "name": "Alpha-tocopherol",
+            "function": "antioxidant",
+            "warnings": "May come from Genetically Modified sources.",
+            "status": "Safe",
+            "foods": "Sausages",
+            "details": "Vitamin E, known as the anti-sterility vitamin. Reduces oxidation of fatty acids and some vitamins. Commercially it can be extracted, by distillation in a vacuum, from cottonseed, maize, rice germ, soya been oil, wheat germ, or green leaves."
+        },
+        {
+            "id": 8,
+            "code": "E308",
+            "name": "Gamma-tocopherol",
+            "function": "antioxidant",
+            "warnings": "May come from Genetically Modified sources.",
+            "status": "Safe",
+            "foods": "Found in most foods, it is abundant in, amongst other things, whole grain cereals, corn and cottonseed oils, egg yolks, meat and milk.",
+            "details": "Vitamin E, known as the anti-sterility vitamin. E308 is an antioxidant for polyunsaturated fatty acids as well as a vitamin."
+        },
+        {
+            "id": 9,
+            "code": "E309",
+            "name": "Delta-tocopherol",
+            "function": "antioxidant",
+            "warnings": "May come from Genetically Modified sources.",
+            "status": "Safe",
+            "foods": "Found in most foods, it is abundant in, amongst other things, whole grain cereals, corn and cottonseed oils, egg yolks, meat and milk.",
+            "details": "Vitamin E, known as the anti-sterility vitamin. E309 is an antioxidant for polyunsaturated fatty acids as well as a vitamin. Reported to be the most effective antioxidant of all the tocopherols in non-biological matter. It also protects other nutrients, such as Vitamin A, from oxidation but is largely destroyed by freezing."
+        },
+        {
+            "id": 10,
+            "code": "E310",
+            "name": "Propyl gallate",
+            "function": "antioxidant",
+            "warnings": "May cause gastric or skin irritation, blood disorder, methemoglobinemia.",
+            "status": "",
+            "foods": "Oils, margarines, butter.",
+            "details": "Helps to prevent oxidation reactions that can cause oils and fats to become spoiled."
+        },
+        {
+            "id": 11,
+            "code": "E311",
+            "name": "Octyl gallate",
+            "function": "antioxidant",
+            "warnings": "see E310",
+            "status": "",
+            "foods": "Oils, margarines, butter.",
+            "details": "see E310"
+        },
+        {
+            "id": 12,
+            "code": "E312",
+            "name": "Dodecyl gallate",
+            "function": "antioxidant",
+            "warnings": "see E310",
+            "status": "",
+            "foods": "see E310",
+            "details": "see E310"
+        },
+        {
+            "id": 13,
+            "code": "E315",
+            "name": "Erythorbic acid",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "",
+            "foods": "Brewing process.",
+            "details": "Derived from ascorbic acid (vitamin C)."
+        },
+        {
+            "id": 14,
+            "code": "E316",
+            "name": "Sodium erythorbate",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "",
+            "foods": "Oils, margarine, butter, cheese, biscuits.",
+            "details": "Helps to prevent oxidations that cause oils and fats to become rancid."
+        },
+        {
+            "id": 15,
+            "code": "E317",
+            "name": "Erythorbic acid",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Produced from sucrose."
+        },
+        {
+            "id": 16,
+            "code": "E318",
+            "name": "Sodium erythorbate",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Produced from E317."
+        },
+        {
+            "id": 17,
+            "code": "E319",
+            "name": "Tert-ButylHydroQuinone (TBHQ)",
+            "function": "antioxidant",
+            "warnings": "May cause nausea, vomiting, delirium. A dose of 5g is considered fatal.",
+            "status": "",
+            "foods": "Fats, oils, margarine.",
+            "details": "Petroleum based."
+        },
+        {
+            "id": 18,
+            "code": "E320",
+            "name": "Butylated hydroxyanisole (BHA)",
+            "function": "antioxidant",
+            "warnings": "Not permitted in infant foods, allergic reaction, may trigger hyperactivity, concerns over carcinogenicity and estrogenic effects.",
+            "status": "Banned in Japan.",
+            "foods": "Used in edible oils, chewing gum, fats, margarine, nuts, instant potato products, polyethylene food wraps.",
+            "details": "Petroleum derivative, retards spoilage due to oxidation; helps to prevent oxidations that cause oils and fats to become rancid."
+        },
+        {
+            "id": 19,
+            "code": "E321",
+            "name": "Butylated hydroxytoluene (BHT)",
+            "function": "antioxidant",
+            "warnings": "see E320",
+            "status": "",
+            "foods": "Oils, margarine, cheese, crisps.",
+            "details": "Petroleum derivative; see E320."
+        },
+        {
+            "id": 20,
+            "code": "E322",
+            "name": "Lecithins",
+            "function": "emulsifier",
+            "warnings": "Non toxic but overdose can upset the stomach, kill the appetite and cause profuse sweating.",
+            "status": "Safe",
+            "foods": "Chocolates, salad creams, mayonnaise.",
+            "details": "Obtained from soya beans, maize, peanuts and egg yolk. As an emulsifier it helps fats and oils to mix. This prevents their separation into separate parts in foods such as chocolate, salad creams and mayonnaise."
+        },
+        {
+            "id": 21,
+            "code": "E325",
+            "name": "Sodium lactate",
+            "function": "antioxidant",
+            "warnings": "Young children with lactose intolerance may show adverse reactions.",
+            "status": "",
+            "foods": "Dairy products.",
+            "details": "Derived from milk (lactic acid). Commercially only prepared from sugar. Helps to increase the anti-oxidant activity of other substances."
+        },
+        {
+            "id": 22,
+            "code": "E326",
+            "name": "Potassium lactate",
+            "function": "antioxidant; pH regulator",
+            "warnings": "see E325",
+            "status": "",
+            "foods": "Jam, ice cream.",
+            "details": "Helps to increase the anti-oxidant effects of other substances. Can also be used to regulate pH in jams and jellies. See E325."
+        },
+        {
+            "id": 23,
+            "code": "E327",
+            "name": "Calcium lactate",
+            "function": "antioxidant; pH regulator",
+            "warnings": "see E325",
+            "status": "",
+            "foods": "Jam, tinned fruit.",
+            "details": "Helps to increase the anti-oxidant effects of other substances. Helps to reduce the reactions that can discolour fruits. May also be used to regulate pH in jams and jellies. See E325."
+        },
+        {
+            "id": 24,
+            "code": "E328",
+            "name": "Ammonium lactate",
+            "function": "antioxidant; pH regulator",
+            "warnings": "see E325",
+            "status": "",
+            "foods": "",
+            "details": "see E325"
+        },
+        {
+            "id": 25,
+            "code": "E328",
+            "name": "Magnesium lactate",
+            "function": "antioxidant; pH regulator",
+            "warnings": "see E325",
+            "status": "",
+            "foods": "",
+            "details": "see E325"
+        },
+        {
+            "id": 26,
+            "code": "E330",
+            "name": "Citric acid",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "",
+            "foods": "Biscuits, canned fish, cheese and processed cheese products, infant formulas, cake and soup mixes, rye bread, soft drinks, fermented meat products.",
+            "details": "Naturally-occuring in citrus fruits like lemons. Helps to increase the anti-oxidant effects of other substances. Helps to reduce the reactions that can discolour fruits. May also be used to regulate pH in jams and jellies."
+        },
+        {
+            "id": 27,
+            "code": "E331",
+            "name": "Sodium citrates",
+            "function": "antioxidant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Jam, tinned fruit, biscuits, alcoholic drinks, cheese, dried soup.",
+            "details": "Helps to increase the anti-oxidant effects of other substances. Reduces the reactions that can discolour fruits. May also be used to regulate pH in jams and jellies. Assists in retaining the 'fizz' of carbonated drinks."
+        },
+        {
+            "id": 28,
+            "code": "E332",
+            "name": "Potassium citrates",
+            "function": "antioxidant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Cakes, cheese, carbonated drinks, jam, biscuits.",
+            "details": "Reduces the reactions that can discolour fruits. May also be used to regulate pH."
+        },
+        {
+            "id": 29,
+            "code": "E333",
+            "name": "Calcium citrates",
+            "function": "antioxidant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Carbonated drinks, cheeses, tinned fruits, wine.",
+            "details": "Helps to regulate pH. Added to flour to give more consistent baking of bread. Reduces reaction that discolour fruits."
+        },
+        {
+            "id": 30,
+            "code": "E334",
+            "name": "Tartaric acid",
+            "function": "antioxidant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Jams, carbonated drinks, tinned fruits, cakes.",
+            "details": "Acid that occurs naturally in many fruits. Commercially obtained from grapes during the wine-making process. Reduces the reactions that cause fruits to discolour."
+        },
+        {
+            "id": 31,
+            "code": "E335",
+            "name": "Sodium tartrates",
+            "function": "antioxidant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Jams, carbonated drinks, tinned fruits, cakes.",
+            "details": "Acid that occurs naturally in many fruits. Commercially obtained from grapes during the wine-making process. Reduces the reactions that cause fruits to discolour."
+        },
+        {
+            "id": 32,
+            "code": "E336",
+            "name": "Potassium tartrates",
+            "function": "antioxidant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Fruit pie mixes, wine, bread production.",
+            "details": "Commercially obtained from grapes during the wine-making process. Used to regulate the pH of wine and also to help flour rise consistently."
+        },
+        {
+            "id": 33,
+            "code": "E337",
+            "name": "Sodium potassium tartrate",
+            "function": "antioxidant; pH regulator; stabilizer",
+            "warnings": "",
+            "status": "",
+            "foods": "Margarine, processed meat, cheese, confectionery.",
+            "details": "Helps to increase the effcts of other antioxidants. Regulates pH in cakes and jams."
+        },
+        {
+            "id": 34,
+            "code": "E338",
+            "name": "Phosphoric acid",
+            "function": "antioxidant; pH regulator; flavor",
+            "warnings": "",
+            "status": "",
+            "foods": "Beer, confectionery, sausages, vegetable oils.",
+            "details": "Helps to increase the effcts of other antioxidants. Regulates pH in cakes and sweets. Used as a flavour to carbonated drinks."
+        },
+        {
+            "id": 35,
+            "code": "E339",
+            "name": "Sodium phosphates",
+            "function": "antioxidant; pH regulator; stabilizer",
+            "warnings": "High intakes may upset the calcium/phosphorus equilibrium.",
+            "status": "",
+            "foods": "Sausages, cheese, pork pies.",
+            "details": "Helps to improve the texture of foods and also increase the effects of other antioxidants."
+        },
+        {
+            "id": 36,
+            "code": "E340",
+            "name": "Potassium phosphates",
+            "function": "antioxidant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Custard powder, jelly mixes, powdered milk, cooked meats, soups.",
+            "details": "Range of phosphate salts of potassium. Can help to increase the effect of other antioxidants."
+        },
+        {
+            "id": 37,
+            "code": "E341",
+            "name": "Calcium phosphates",
+            "function": "antioxidant; firming agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Self-raising flour, powdered milk drinks, cake mixes.",
+            "details": "Helps to improve the action of other antioxidants. Added to baking flour to improve the consistency and texture of bread."
+        },
+        {
+            "id": 38,
+            "code": "E343",
+            "name": "Magnesium phosphates",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "",
+            "foods": "Vegetable protein drinks.",
+            "details": "Used in beverages to prevent oxidation reactions that will spoil the drink."
+        },
+        {
+            "id": 39,
+            "code": "E350",
+            "name": "Sodium malates",
+            "function": "pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Jams",
+            "details": "Helps to maintain the pH in foods containing processed fruits such as jams and marmalade."
+        },
+        {
+            "id": 40,
+            "code": "E351",
+            "name": "Potassium malate",
+            "function": "pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Jams",
+            "details": "Helps to maintain the pH in foods containing processed fruits such as jams and marmalade."
+        },
+        {
+            "id": 41,
+            "code": "E352",
+            "name": "Calcium malate",
+            "function": "pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Jams",
+            "details": "Helps to maintain the pH in foods containing processed fruits such as jams and marmalade."
+        },
+        {
+            "id": 42,
+            "code": "E353",
+            "name": "Metatartaric acid",
+            "function": "sequestrant",
+            "warnings": "",
+            "status": "",
+            "foods": "Wine",
+            "details": "Used in the production of wine to remove suspended particles and make the wine clear."
+        },
+        {
+            "id": 43,
+            "code": "E354",
+            "name": "Calcium tartrate",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "Safe",
+            "foods": "Baked goods.",
+            "details": "Calcium salt of tartaric acid. Prevents oxidation."
+        },
+        {
+            "id": 44,
+            "code": "E355",
+            "name": "Adipic acid",
+            "function": "acidulant; pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Drinks",
+            "details": "Helps to give fruit drinks the characteristic sharp flavour."
+        },
+        {
+            "id": 45,
+            "code": "E356",
+            "name": "Sodium adipate",
+            "function": "pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Cake toppings, powdered dessert mixes.",
+            "details": "Helps to maintin the correct level of acidity for the food."
+        },
+        {
+            "id": 46,
+            "code": "E357",
+            "name": "Potassium adipate",
+            "function": "pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Cake fillings and toppings, dessert mixes.",
+            "details": "Helps to maintain the correct level of acidity for the food."
+        },
+        {
+            "id": 47,
+            "code": "E363",
+            "name": "Succinic acid",
+            "function": "pH regulator",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Desserts, soups.",
+            "details": "Naturally occuring weak organic acid."
+        },
+        {
+            "id": 48,
+            "code": "E370",
+            "name": "Heptonolactone",
+            "function": "acidity regulator",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Not permitted in Australia.",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 49,
+            "code": "E375",
+            "name": "Niacin",
+            "function": "colour retention agent",
+            "warnings": "At doses in excess of 1,000 mg per day can cause liver damage, diabetes, gastritis, eye damage, and elevated blood levels of uric acid (which can cause gout); at amounts as low as 50-100 mg may cause flushing (harmless but painful), headache, and stomach-ache especially if taken on an empty stomach.",
+            "status": "",
+            "foods": "Naturally occurs in bean, pea and other legumes, milk, egg, meat, poultry, and fish.",
+            "details": "Vitamin B3."
+        },
+        {
+            "id": 50,
+            "code": "E380",
+            "name": "Triammonium citrate",
+            "function": "pH regulator; emulsifier",
+            "warnings": "May interfere with liver and pancreas function.",
+            "status": "",
+            "foods": "Cheese spread.",
+            "details": "Helps to keep maintain the correct consistency of cheese spreads."
+        },
+        {
+            "id": 51,
+            "code": "E381",
+            "name": "Ammonium ferric citrates",
+            "function": "acidity regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Used as a dietary iron supplement in breakfast cereals and dietary formulas.",
+            "details": "Essential mineral, food acid derived from citric acid."
+        },
+        {
+            "id": 52,
+            "code": "E385",
+            "name": "Calcium disodium EDTA",
+            "function": "sequestrant",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Tinned fish.",
+            "details": "Chelating agents attract ions such as copper, zinc and iron. They trap the ions and prevent them from reacting which could make the food go rancid."
+        }
+
+    ],
+    "thickeners, stabilizers, emulsifiers":[
+        {
+            "id": 1,
+            "code": "E400",
+            "name": "Alginic acid",
+            "function": "emulsifier",
+            "warnings": "Large quantities can inhibit the absorption of some nutrients.",
+            "status": "",
+            "foods": "Soft drinks, yoghurt, jam.",
+            "details": "Obtained from brown sea weed."
+        },
+        {
+            "id": 2,
+            "code": "E401",
+            "name": "Sodium alginate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Syrups, sauces, ice cream, fruit drinks, fruit pie fillings.",
+            "details": "Derived from brown sea weed."
+        },
+        {
+            "id": 3,
+            "code": "E402",
+            "name": "Potassium alginate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Syrups, sauces, ice cream, fruit drinks, fruit pie fillings.",
+            "details": "Derived from brown sea weed. More often, sodium alginate (E401) is used in foods."
+        },
+        {
+            "id": 4,
+            "code": "E403",
+            "name": "Ammonium alginate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Icing sugar.",
+            "details": "Derived from brown sea weed."
+        },
+        {
+            "id": 5,
+            "code": "E404",
+            "name": "Calcium alginate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Yoghurt, cream cheese, ice cream, tinned vegetables, pasteurised cream.",
+            "details": "Derived from brown sea weed."
+        },
+        {
+            "id": 6,
+            "code": "E405",
+            "name": "Propane-1,2-diol alginate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "Not permitted in France.",
+            "foods": "Ice cream, salad dressing, fruit drinks.",
+            "details": "Derived from brown sea weed."
+        },
+        {
+            "id": 7,
+            "code": "E406",
+            "name": "Agar",
+            "function": "stabilizer",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, drinks, cakes, yoghurt.",
+            "details": "Polysaccharide obtained from certain varieties of sea weed."
+        },
+        {
+            "id": 8,
+            "code": "E407",
+            "name": "Carrageenan",
+            "function": "emulsifier",
+            "warnings": "Linked to toxic hazards, including ulcers and cancer.",
+            "status": "",
+            "foods": "Milk drinks, ice cream, biscuits, jam, processed meats, pastries.",
+            "details": "Mixture of polysaccharides produced from a variety of red sea weeds."
+        },
+        {
+            "id": 9,
+            "code": "E407a",
+            "name": "Processed eucheuma seaweed",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Milk drinks, ice cream, biscuits, jam, processed meats, pastries.",
+            "details": "Mixture of polysaccharides produced from a variety of sea weeds."
+        },
+        {
+            "id": 10,
+            "code": "E410",
+            "name": "Locust bean gum; carob gum",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Tinned vegetables, processed cream, cakes, fruit pie fillings, salad cream.",
+            "details": "Polysaccharide obtained from the seeds of the Carob tree. Frequently used as a caffeine-free chocolate substitute; may lower cholesterol levels."
+        },
+        {
+            "id": 11,
+            "code": "E412",
+            "name": "Guar gum",
+            "function": "stabilizer",
+            "warnings": "Can cause nausea, flatulence and cramps.",
+            "status": "",
+            "foods": "Coleslaw, dried soups, brown sauce, ice cream, yoghurt, fruit drinks.",
+            "details": "Polysaccharide obtained from the seeds of the Cluster bean plant. Can be used in foods for diabetics to assist in the control of blood sugar levels."
+        },
+        {
+            "id": 12,
+            "code": "E413",
+            "name": "Tragacanth",
+            "function": "emulsifier",
+            "warnings": "Possible contact allergy.",
+            "status": "",
+            "foods": "Processed cheese, confectionery, salad dressing, jams, yoghurt.",
+            "details": "A naturally occuring polysaccharide that is collected from the stems of the tragacanth bush."
+        },
+        {
+            "id": 13,
+            "code": "E414",
+            "name": "Acacia gum; gum arabic",
+            "function": "emulsifier",
+            "warnings": "Possible allergen, soothes irritations of mucous membranes.",
+            "status": "",
+            "foods": "Beer, sweets, tinned vegetables.",
+            "details": "A naturally occuring polysaccharide that is collected from the stems of the acacia bush. Helps to prevent the formation of large sugar crystals in sweets and also retains the froth on beer."
+        },
+        {
+            "id": 14,
+            "code": "E415",
+            "name": "Xanthan gum",
+            "function": "stabilizer",
+            "warnings": "",
+            "status": "",
+            "foods": "Salad dressing, dairy products, cake mix, coleslaw.",
+            "details": "Obtained by the fermentation of sugar by the bacteria Xanthomonas campestris."
+        },
+        {
+            "id": 15,
+            "code": "E416",
+            "name": "Karaya gum",
+            "function": "emulsifier",
+            "warnings": "Possible allergen",
+            "status": "",
+            "foods": "Brown sauce, confectionery, ice cream.",
+            "details": "A naturally occuring polysaccharide obtained from the stems of the karaya tree. Major producing regions are North and Central India."
+        },
+        {
+            "id": 16,
+            "code": "E417",
+            "name": "Tara gum",
+            "function": "stabilizer",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Polysaccharide which is a good stabiliser for use in dairy products. Derived from the Tara bush, Caesalpinia Spinosa is indigenous to Ecuador and Peru and is grown in Kenya."
+        },
+        {
+            "id": 17,
+            "code": "E418",
+            "name": "Gellan gum",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Jellies, confectionery, low calorie drinks.",
+            "details": "A polysaccharide obtained by fermentation using the bacteria Sphingomonas elodea."
+        },
+        {
+            "id": 18,
+            "code": "E420",
+            "name": "Sorbitol; Sorbitol syrup",
+            "function": "sweetener",
+            "warnings": "Not permitted in foods for infants and young children, can cause gastric disturbance.",
+            "status": "",
+            "foods": "Sweets, ice cream, cakes, chocolates, some artificially sweetened drinks.",
+            "details": "Sorbitol syrup is produced commercially from glucose. It can help to reduce the formation of sugar crystals in food and maintain the texture of chewy sweets."
+        },
+        {
+            "id": 19,
+            "code": "E421",
+            "name": "Mannitol",
+            "function": "sweetener",
+            "warnings": "Possible allergen, not permitted in infant foods, may cause nausea, vomiting.",
+            "status": "",
+            "foods": "Sweets, ice cream.",
+            "details": "Carbohydrate prepared from the sea weed Manna ash or commercially from glucose."
+        },
+        {
+            "id": 20,
+            "code": "E422",
+            "name": "Glycerol",
+            "function": "sweetener; humectant",
+            "warnings": "Large quantities can cause headaches, thirst, nausea and high blood sugar levels.",
+            "status": "",
+            "foods": "Confectionery, drinks, desserts.",
+            "details": "Glycerol is a humectant. That means it is added to foods like fruit gums to prevent them from drying out. It can also be used to dissolve other flavours before adding them to the food."
+        },
+        {
+            "id": 21,
+            "code": "E425",
+            "name": "Konjac",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "Unpermited",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 22,
+            "code": "E430",
+            "name": "Polyoxyethylene stearate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 23,
+            "code": "E431",
+            "name": "Polyoxyethylene (40) stearate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Bread",
+            "details": "Used to give bread a soft texture."
+        },
+        {
+            "id": 24,
+            "code": "E432",
+            "name": "Polysorbate 20",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Cakes, desserts, milk substitutes.",
+            "details": "Emulsifiers help to prevent fats from separating out of solutions. This property is useful in artificial milks such as coffee creamers."
+        },
+        {
+            "id": 25,
+            "code": "E433",
+            "name": "Polysorbate 80",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Bread, pastries, ice cream.",
+            "details": "Complex mixture of esters of sorbitol."
+        },
+        {
+            "id": 26,
+            "code": "E434",
+            "name": "Polysorbate 40",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Confectionery, ice cream.",
+            "details": "Complex mixture of esters of sorbitol."
+        },
+        {
+            "id": 27,
+            "code": "E435",
+            "name": "Polysorbate 60",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Confectionery, bread, ice cream, sweets.",
+            "details": "Complex mixture of esters of sorbitol."
+        },
+        {
+            "id": 28,
+            "code": "E436",
+            "name": "Polysorbate 65",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Bread, pastries, frozen desserts.",
+            "details": "Complex mixture of esters of sorbitol."
+        },
+        {
+            "id": 29,
+            "code": "E440",
+            "name": "Pectins",
+            "function": "emulsifier",
+            "warnings": "E440a - large quantities may cause temporary flatulence or intestinal discomfort.",
+            "status": "",
+            "foods": "Jams, yoghurts, ice cream, diet drinks.",
+            "details": "Polysaccharide that is naturally found as a component of plant cell walls."
+        },
+        {
+            "id": 30,
+            "code": "E441",
+            "name": "Gelatine",
+            "function": "emulsifier",
+            "warnings": "Possible allergen. Asthmatics and people allergic to sulphites beware!",
+            "status": "",
+            "foods": "",
+            "details": "From animal bones."
+        },
+        {
+            "id": 31,
+            "code": "E442",
+            "name": "Ammonium phosphatides",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Chocolate",
+            "details": "Synthetically-produced stabiliser."
+        },
+        {
+            "id": 32,
+            "code": "E444",
+            "name": "Sucrose acetate isobutyrate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Non-alcoholic, flavoured cloudy drinks.",
+            "details": "Derived from cane sugar."
+        },
+        {
+            "id": 33,
+            "code": "E445",
+            "name": "Glycerol esters of wood rosins",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 34,
+            "code": "E450",
+            "name": "Diphosphates",
+            "function": "pH regulator; emulsifier",
+            "warnings": "High intakes may upset the calcium/phosphate equilibrium.",
+            "status": "",
+            "foods": "Cakes, instant mashed potato, cheese.",
+            "details": "Can also be used to improve the colour of foods and as a raising agent in baking."
+        },
+        {
+            "id": 35,
+            "code": "E451",
+            "name": "Triphosphates",
+            "function": "pH regulator; emulsifier",
+            "warnings": "see E450",
+            "status": "",
+            "foods": "Fish fingers.",
+            "details": "Can also be used to improve the colour of foods."
+        },
+        {
+            "id": 36,
+            "code": "E452",
+            "name": "Polyphosphates",
+            "function": "pH regulator; emulsifier; stabiliser",
+            "warnings": "Can alter the metabolytical activity in humans; in addition to modified starch, they may cause calcification of the pelvic region in rats; they intensify the activity of heavy metals making them easier to cross the intestine wall; they may contain a lot of impurities; in Japan, a group of children were intoxicated with arsine as impurity of ortophosphate used in food",
+            "status": "",
+            "foods": "Dried foods, desserts.",
+            "details": "Can also be used to improve the colour of foods and as a raising agent in baking."
+        },
+        {
+            "id": 37,
+            "code": "E459",
+            "name": "Beta-cyclodextrin",
+            "function": "stabilizer",
+            "warnings": "",
+            "status": "",
+            "foods": "Foods in tablet or coated tablet form.",
+            "details": "Starch-based material used as a tableting excipient."
+        },
+        {
+            "id": 38,
+            "code": "E460",
+            "name": "Cellulose",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "High fibre breads, 'diet' snacks, dried foods.",
+            "details": "Main component of plant cell walls. It is not digestible by humans and so adds bulk to the food. Also known as fibre or roughoage. Used in brewing to clarify beers."
+        },
+        {
+            "id": 39,
+            "code": "E461",
+            "name": "Methyl cellulose",
+            "function": "emulsifier",
+            "warnings": "Can cause flatulence, distension, intestinal obstruction.",
+            "status": "",
+            "foods": "Processed potato snacks, soft drinks, cakes.",
+            "details": "Derived from cellulose, the main component of plant cell walls. It is not digestible by humans and so adds bulk to the food. Also known as fibre or roughage. Can be used in special diets for diabetics or lactose intolerant people."
+        },
+        {
+            "id": 40,
+            "code": "E463",
+            "name": "Hydroxypropyl cellulose",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Cakes",
+            "details": "Prepared from cellulose. Used to produce the glazed effect on cakes."
+        },
+        {
+            "id": 41,
+            "code": "E464",
+            "name": "Hydroxypropyl methyl cellulose",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Processed potato foods.",
+            "details": "Derived from cellulose, the main component of plant cell walls."
+        },
+        {
+            "id": 42,
+            "code": "E465",
+            "name": "Ethyl methyl cellulose",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Processed potato foods.",
+            "details": "Derived from cellulose, the main component of plant cell walls."
+        },
+        {
+            "id": 43,
+            "code": "E466",
+            "name": "Carboxy methyl cellulose",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Frozen chipped potatoes, cheese, cake fillings, diet soft drinks, dried potato.",
+            "details": "Derived from cellulose, the main component of plant cell walls."
+        },
+        {
+            "id": 44,
+            "code": "E467",
+            "name": "Sodium carboxy methyl cellulose",
+            "function": "thickener",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 45,
+            "code": "E468",
+            "name": "Croscarmellose",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "This additive is under discussion and may be included in a future amendments.",
+            "foods": "Sweeteners and food supplements.",
+            "details": "Derived from cellulose, which cannot be digested in the body."
+        },
+        {
+            "id": 46,
+            "code": "E469",
+            "name": "Sodium caseinate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Low calorie drinks, cake fillings.",
+            "details": "Derived from cellulose, the main constituent of plant cell walls."
+        },
+        {
+            "id": 47,
+            "code": "E470a",
+            "name": "Fatty acids salts",
+            "function": "anti-caking agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Cake mix, potato crisps.",
+            "details": "Derivatives of fatty acids."
+        },
+        {
+            "id": 48,
+            "code": "E470b",
+            "name": "Magnesium salts of fatty acids",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "Not permitted in Australia.",
+            "foods": "Bakery mixes, potato crisps.",
+            "details": "Derivatives of fatty acids."
+        },
+        {
+            "id": 49,
+            "code": "E471",
+            "name": "Mono- and diglycerides of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Cakes, dried potato.",
+            "details": "Products that fats are broken down into during the digestive process. Produced commercially as an additive."
+        },
+        {
+            "id": 50,
+            "code": "E472a",
+            "name": "Fatty acid esters of glycerol",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 51,
+            "code": "E472b",
+            "name": "Lactic acid esters of mono- and diglycerides of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 52,
+            "code": "E472c",
+            "name": "Citric acid esters of mono- and diglycerides of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 53,
+            "code": "E472d",
+            "name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 54,
+            "code": "E472e",
+            "name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 55,
+            "code": "E472f",
+            "name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 56,
+            "code": "E473",
+            "name": "Sucrose esters of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Canned liquid coffee, heat-treated meat products, confectionery, chewing gum, non-alcoholic drinks.",
+            "details": "Reaction products of sucrose with animal and vegetable fats."
+        },
+        {
+            "id": 57,
+            "code": "E474",
+            "name": "Sucroglycerides",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Canned liquid coffee, heat-treated meat products, confectionery, chewing gum, non-alcoholic drinks.",
+            "details": "Prepared from sources of plant and animal fats."
+        },
+        {
+            "id": 58,
+            "code": "E475",
+            "name": "Polyglycerol esters of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Cakes and cake mixes.",
+            "details": "Synthetically produced from fatty acids."
+        },
+        {
+            "id": 59,
+            "code": "E476",
+            "name": "Polyglycerol polyricinoleate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Chocolate",
+            "details": "Synthetic vegetable fat. Obtained from plant oils."
+        },
+        {
+            "id": 60,
+            "code": "E477",
+            "name": "Propylene glycol esters of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Cake mixes",
+            "details": "Derived from petroleum."
+        },
+        {
+            "id": 61,
+            "code": "E478",
+            "name": "Lactylated fatty acid esters of glycerol and propane",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 62,
+            "code": "E479b",
+            "name": "Thermally oxidised soya bean oil interacted with mono and diglycerides of fatty acids",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Frying fat",
+            "details": "Emulsifiers prevent fats from separating out when in a solution."
+        },
+        {
+            "id": 63,
+            "code": "E480",
+            "name": "Dioctyl sodium sulphosuccinate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "Awaiting results of studies",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 64,
+            "code": "E481",
+            "name": "Sodium stearoyl-2-lactylate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Bread",
+            "details": "Derived from lactic acid."
+        },
+        {
+            "id": 65,
+            "code": "E482",
+            "name": "Calcium stearoyl-2-lactylate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Instant gravy.",
+            "details": "Derived from lactic acid."
+        },
+        {
+            "id": 66,
+            "code": "E483",
+            "name": "Stearyl tartrate",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "Prohibited in Australia.",
+            "foods": "Flour",
+            "details": "Derived from tartaric acid."
+        },
+        {
+            "id": 67,
+            "code": "E491",
+            "name": "Sorbitan monostearate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Cake mix.",
+            "details": "Can be used to give confectionery a shiny appearance."
+        },
+        {
+            "id": 68,
+            "code": "E492",
+            "name": "Sorbitan tristearate",
+            "function": "emulsifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Confectionery",
+            "details": "Synthetic additive."
+        },
+        {
+            "id": 69,
+            "code": "E493",
+            "name": "Sorbitan monolaurate",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Herbal tea concentrates.",
+            "details": "Emulsifiers help to prevent fats from separating out when in a solution."
+        },
+        {
+            "id": 70,
+            "code": "E494",
+            "name": "Sorbitan monooleate",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Herbal tea concentrates.",
+            "details": "Emulsifiers help to prevent fats from separating out when in a solution."
+        },
+        {
+            "id": 71,
+            "code": "E495",
+            "name": "Sorbitan monopalmitate Sorbitan monopalmitate",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Herbal tea concentrates.",
+            "details": "Emulsifiers help to prevent fats from separating out when in a solution."
+        }
+
+    ],
+    "acidity regulators, anti-caking agents": [
+        {
+            "id": 1,
+            "code": "E500",
+            "name": "Sodium carbonates",
+            "function": "pH regulator",
+            "warnings": "No known adverse effects in small quantities.",
+            "status": "",
+            "foods": "Beer, bread, cakes.",
+            "details": "Used in the brewing process. Sodium hydrogen carbonate (sodium bicarbonate) used as a raising agent in baking. Generates carbon dioxide gas during the baking process and this causes cakes and bread to rise."
+        },
+        {
+            "id": 2,
+            "code": "E501",
+            "name": "Potassium carbonate",
+            "function": "pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Baking powder, baked products, cocoa, chocolate products.",
+            "details": "Regulates the acididty of foods."
+        },
+        {
+            "id": 3,
+            "code": "E503",
+            "name": "Ammonium carbonate",
+            "function": "pH regulator",
+            "warnings": "Irritant to mucous membranes.",
+            "status": "",
+            "foods": "Baking powder, cakes, bread.",
+            "details": "Generates carbon dioxide gas during the baking process and this causes cakes and bread to rise."
+        },
+        {
+            "id": 4,
+            "code": "E504",
+            "name": "Magnesium carbonate",
+            "function": "pH regulator; anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Butter, biscuits.",
+            "details": "May be added to table salt to help it flow smoothly when poured. Medically used as an antacid and laxative."
+        },
+        {
+            "id": 5,
+            "code": "E507",
+            "name": "Hydrochloric acid",
+            "function": "acid",
+            "warnings": "",
+            "status": "",
+            "foods": "Beer making process.",
+            "details": "Used in the early stages of the brewing process to reduce the loss of sugars from barley. Safe in small quantities. Aids in processing of barley."
+        },
+        {
+            "id": 6,
+            "code": "E508",
+            "name": "Potassium chloride",
+            "function": "gelling agent",
+            "warnings": "Large quantities can cause gastric ulceration.",
+            "status": "",
+            "foods": "Brewing process, table salt.",
+            "details": "Used as a low sodium alternative to table salt. Also in the early stages of the brewing process."
+        },
+        {
+            "id": 7,
+            "code": "E509",
+            "name": "Calcium chloride",
+            "function": "sequestrant",
+            "warnings": "",
+            "status": "",
+            "foods": "Brewing process.",
+            "details": "Added to water in the brewing process to obtain consistent quality of beer."
+        },
+        {
+            "id": 8,
+            "code": "E510",
+            "name": "Ammonium chloride",
+            "function": "improving agent",
+            "warnings": "Should be avoided by people with impaired liver or kidney function.",
+            "status": "",
+            "foods": "Flour products.",
+            "details": ""
+        },
+        {
+            "id": 9,
+            "code": "E511",
+            "name": "Magnesium chloride",
+            "function": "firming agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Canned vegetables.",
+            "details": "Magnesium is an essential mineral. Complexes with pectins in vegetables to retain and firm structure during heat processing."
+        },
+        {
+            "id": 10,
+            "code": "E512",
+            "name": "Stannous chloride",
+            "function": "antioxidant",
+            "warnings": "",
+            "status": "Unpermitted",
+            "foods": "Canned asparagus.",
+            "details": "Improves antioxidant effects (synergist). Synergists are compounds that improve the effects of other additives."
+        },
+        {
+            "id": 11,
+            "code": "E513",
+            "name": "Sulfuric acid",
+            "function": "acid",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Brewing process.",
+            "details": "Used in the brewing process to reduce the loss of sugars from the barley. The acid does not remain in the final product."
+        },
+        {
+            "id": 12,
+            "code": "E514",
+            "name": "Sodium sulfate",
+            "function": "acid",
+            "warnings": "May upset the body's water balance.",
+            "status": "",
+            "foods": "Brewing process.",
+            "details": "Used in the brewing process to modify water and ensure consistency of taste."
+        },
+        {
+            "id": 13,
+            "code": "E515",
+            "name": "Potassium sulfate",
+            "function": "",
+            "warnings": "",
+            "status": "",
+            "foods": "Table salt substitutes.",
+            "details": "May be used to replace table salt (sodium chloride) in diet products."
+        },
+        {
+            "id": 14,
+            "code": "E516",
+            "name": "Calcium sulfate",
+            "function": "firming agent; sequestrant",
+            "warnings": "",
+            "status": "",
+            "foods": "Brewing process.",
+            "details": "Naturally occuring mineral. May be added to water in the brewing process to regulate water consistency."
+        },
+        {
+            "id": 15,
+            "code": "E517",
+            "name": "Ammonium sulfate",
+            "function": "improving agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Dependent on additive.",
+            "details": "Carriers are substances that can be used to hold other additives."
+        },
+        {
+            "id": 16,
+            "code": "E518",
+            "name": "Magnesium sulphate",
+            "function": "firming agent",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "a laxative"
+        },
+        {
+            "id": 17,
+            "code": "E519",
+            "name": "Copper sulphate",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "essential mineral"
+        },
+        {
+            "id": 18,
+            "code": "E520",
+            "name": "Aluminium sulphate",
+            "function": "firming agent",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 19,
+            "code": "E521",
+            "name": "Aluminium sodium sulfate",
+            "function": "firming agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Egg white, glazed fruits.",
+            "details": "Helps to ensure food has the desired texture."
+        },
+        {
+            "id": 20,
+            "code": "E522",
+            "name": "Aluminium potassium sulfate",
+            "function": "acidity regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Egg white, glazed fruits.",
+            "details": "Helps to ensure food has the desired texture."
+        },
+        {
+            "id": 21,
+            "code": "E523",
+            "name": "Aluminium ammonium sulfate",
+            "function": "acidity regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Egg white, glazed fruits.",
+            "details": "Helps to ensure food has the desired texture."
+        },
+        {
+            "id": 22,
+            "code": "E524",
+            "name": "Sodium hydroxide",
+            "function": "acidity regulator",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Brewing process, production of edible oils.",
+            "details": "Used in the processing of many foods. In the brewing process it is use to remove acids from barley. Used in the production of edible oils."
+        },
+        {
+            "id": 23,
+            "code": "E525",
+            "name": "Potassium hydroxide",
+            "function": "acidity regulator",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Production of cocoa-based foods.",
+            "details": "Used in the processing of foods."
+        },
+        {
+            "id": 24,
+            "code": "E526",
+            "name": "Calcium hydroxide",
+            "function": "firming agent",
+            "warnings": "No adverse effects in small quantities.",
+            "status": "",
+            "foods": "Brewing process.",
+            "details": "Used to remove acids from barley in the brewing process."
+        },
+        {
+            "id": 25,
+            "code": "E527",
+            "name": "Ammonium hydroxide",
+            "function": "pH regulator",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Colourings added to food.",
+            "details": "Used in the processing of foods."
+        },
+        {
+            "id": 26,
+            "code": "E528",
+            "name": "Magnesium hydroxide",
+            "function": "pH regulator",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Used in the processing of various foods.",
+            "details": "Used as a processing aid and is not found in significant amounts in the final product."
+        },
+        {
+            "id": 27,
+            "code": "E529",
+            "name": "Calcium oxide",
+            "function": "pH regulator",
+            "warnings": "Safe in small quantities.",
+            "status": "",
+            "foods": "Used in the processing of various foods.",
+            "details": "Used as a processing aid and is not found in significant amounts in the final product."
+        },
+        {
+            "id": 28,
+            "code": "E530",
+            "name": "Magnesium oxide",
+            "function": "anti-caking agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Foods containing cocoa powder.",
+            "details": "Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 29,
+            "code": "E535",
+            "name": "Sodium ferrocyanide",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Table salt substitutes.",
+            "details": "Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 30,
+            "code": "E536",
+            "name": "Potassium ferrocyanide",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Table salt",
+            "details": "Absorbs water and so helps to prevent salt from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 31,
+            "code": "E538",
+            "name": "Calcium ferrocyanide",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Table salt substitutes.",
+            "details": "Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 32,
+            "code": "E540",
+            "name": "Dicalcium diphosphate",
+            "function": "anti-caking agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 33,
+            "code": "E541",
+            "name": "Sodium aluminium phosphate",
+            "function": "emulsifier",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Cakes",
+            "details": "Aerates cakes as they are baking to give them a light texture."
+        },
+        {
+            "id": 34,
+            "code": "E542",
+            "name": "Bone phosphate",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Derived from bones; used in dried milk for coffee machines."
+        },
+        {
+            "id": 35,
+            "code": "E544",
+            "name": "Calcium polyphosphates",
+            "function": "anti-caking agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 36,
+            "code": "E545",
+            "name": "Ammonium polyphosphates",
+            "function": "anti-caking agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 37,
+            "code": "E551",
+            "name": "Silicon dioxide",
+            "function": "anti-caking agent; thickener",
+            "warnings": "",
+            "status": "",
+            "foods": "Beer and wine production process.",
+            "details": "Used in beer and wine making to remove cloudiness during the production process."
+        },
+        {
+            "id": 38,
+            "code": "E552",
+            "name": "Calcium silicate",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Table salt, sweets.",
+            "details": "A naturally occuring mineral. When processed, it absorbs water and so helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 39,
+            "code": "E553a",
+            "name": "Magnesium silicate",
+            "function": "anti-caking agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Table salt, sweets.",
+            "details": "When processed, it absorbs water and so helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 40,
+            "code": "E553b",
+            "name": "Talc",
+            "function": "anti-caking agent",
+            "warnings": "Linked to stomach cancer.",
+            "status": "",
+            "foods": "Chewing gum, chocolate, confectionary.",
+            "details": "A naturally-occuring mineral. Helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 41,
+            "code": "E554",
+            "name": "Sodium aluminium silicate",
+            "function": "anti-caking agent",
+            "warnings": "Known to cause placental problems in pregnancy and has been linked to Alzheimer's.",
+            "status": "",
+            "foods": "Salt, dried milk substitutes and flours.",
+            "details": "A naturally-occuring mineral. Helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 42,
+            "code": "E555",
+            "name": "Potassium aluminium silicate",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Table salt substitutes, powdered food, sliced cheese.",
+            "details": "Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 43,
+            "code": "E556",
+            "name": "Aluminium calcium silicate",
+            "function": "anti-caking agent",
+            "warnings": "see E554",
+            "status": "",
+            "foods": "see E554",
+            "details": "Absorbs water and so helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 44,
+            "code": "E558",
+            "name": "Bentonite",
+            "function": "anti-caking agent; clarifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Beer and wine production.",
+            "details": "A naturally-occuring mineral. Used to help reduce the cloudiness of beers and wines in their production."
+        },
+        {
+            "id": 45,
+            "code": "E559",
+            "name": "Aluminium silicate, kaolin",
+            "function": "anti-caking agent; clarifier",
+            "warnings": "",
+            "status": "",
+            "foods": "Beer and wine production.",
+            "details": "A naturally-occuring mineral. Used to help reduce the cloudiness of beers and wines in their production."
+        },
+        {
+            "id": 46,
+            "code": "E570",
+            "name": "Fatty acids",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Wide range of powdered and dried foods, soup mixes, cake mixes.",
+            "details": "Helps to prevent powders from forming clumps and being difficult to pour."
+        },
+        {
+            "id": 47,
+            "code": "E574",
+            "name": "Gluconic acid",
+            "function": "pH regulator",
+            "warnings": "",
+            "status": "",
+            "foods": "Alcoholic and non-alcoholic drinks, dried foods.",
+            "details": "Helps to maintain the correct acid-balance."
+        },
+        {
+            "id": 48,
+            "code": "E575",
+            "name": "Glucono delta lactone",
+            "function": "sequestrant",
+            "warnings": "",
+            "status": "",
+            "foods": "Milk sterilisation and brewing process.",
+            "details": "Prevents the formation of salt deposits in the brewing process and when milk is heated to high temperatures."
+        },
+        {
+            "id": 49,
+            "code": "E576",
+            "name": "Sodium gluconate",
+            "function": "sequestrant",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Alcoholic and non-alcoholic drinks, dried foods.",
+            "details": "Sequestrants combine with positive ions to form a soluble salt which improves the stability of the food."
+        },
+        {
+            "id": 50,
+            "code": "E577",
+            "name": "Potassium gluconate",
+            "function": "sequestrant",
+            "warnings": "",
+            "status": "",
+            "foods": "Alcoholic and non-alcoholic drinks, dried foods.",
+            "details": "Sequestrants combine with positive ions to form a soluble salt which improves the stability of the food."
+        },
+        {
+            "id": 51,
+            "code": "E578",
+            "name": "Calcium gluconate",
+            "function": "pH regulator; sequestrant",
+            "warnings": "",
+            "status": "",
+            "foods": "Alcoholic and non-alcoholic drinks, dried foods.",
+            "details": "Sequestrants combine with positive ions to form a soluble salt which improves the stability of the food."
+        },
+        {
+            "id": 52,
+            "code": "E579",
+            "name": "Ferrous gluconate",
+            "function": "stabiliser",
+            "warnings": "",
+            "status": "",
+            "foods": "Olives, iron supplements.",
+            "details": "Helps to prevent food spoilage. Used with darkened olives."
+        },
+        {
+            "id": 53,
+            "code": "E585",
+            "name": "Ferrous lactate",
+            "function": "",
+            "warnings": "",
+            "status": "",
+            "foods": "Olives.",
+            "details": "Helps to prevent food spoilage. Used with darkened olives."
+        }
+
+    ],
+    "flavour enhancers": [
+        {
+            "id": 1,
+            "code": "E620",
+            "name": "Glutamic acid",
+            "function": "flavour enhancer",
+            "warnings": "Young children should avoid it.",
+            "status": "",
+            "foods": "Variety of foods as a flavour enhancer.",
+            "details": "A naturally-occuring amino acid. Commercially produced by the fermentation of bacteria."
+        },
+        {
+            "id": 2,
+            "code": "E621",
+            "name": "Monosodium glutamate",
+            "function": "flavour enhancer",
+            "warnings": "Adverse effects appear in some asthmatic people, not permitted in foods for infants and young children; typical products are canned vegetables.",
+            "status": "",
+            "foods": "Variety of foods as a flavour enhancer. Cured and processed meats, noodles.",
+            "details": "Derived from a naturally-occuring amino acid. Commercially produced by the fermentation of bacteria or by its isolation from plant proteins."
+        },
+        {
+            "id": 3,
+            "code": "E622",
+            "name": "Monopotassium glutamate",
+            "function": "flavour enhancer",
+            "warnings": "Can cause nausea, vomiting, diarrhea, abdominal cramps.",
+            "status": "",
+            "foods": "Variety of foods as a flavour enhancer, salt substitute.",
+            "details": "Derived from a naturally-occuring amino acid. Commercially produced by the fermentation of bacteria."
+        },
+        {
+            "id": 4,
+            "code": "E623",
+            "name": "Calcium diglutamate",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "Meat soups.",
+            "details": "Salt substitute. See E622."
+        },
+        {
+            "id": 5,
+            "code": "E624",
+            "name": "Monoammonium glutamate",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "May be used in any food.",
+            "details": "See E623. Helps to bring out the flavours of many foods."
+        },
+        {
+            "id": 6,
+            "code": "E625",
+            "name": "Magnesium diglutamate",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "May be used in any food.",
+            "details": "See E623."
+        },
+        {
+            "id": 7,
+            "code": "E626",
+            "name": "Guanylic acid",
+            "function": "flavour enhancer",
+            "warnings": "May trigger gout",
+            "status": "",
+            "foods": "Seasonings.",
+            "details": "Derived from a naturally-occuring amino acid. Helps to bring out the flavours of many foods."
+        },
+        {
+            "id": 8,
+            "code": "E627",
+            "name": "Disodium guanylate",
+            "function": "flavour enhancer",
+            "warnings": "May trigger gout, not permitted in foods for infants and young children.",
+            "status": "",
+            "foods": "Dried gravy granules, cured and prepared meats, meat soups.",
+            "details": "Derived from a naturally-found nucleotide (component of DNA) that is commercially synthesised for use as a food additive."
+        },
+        {
+            "id": 9,
+            "code": "E628",
+            "name": "Dipotassium guanylate",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "May be used in any food.",
+            "details": "Derived from a naturally-found nuceotide (component of DNA) that is commercially synthesised for use as a food additive."
+        },
+        {
+            "id": 10,
+            "code": "E629",
+            "name": "Calcium guanylate",
+            "function": "flavour enhancer",
+            "warnings": "May trigger gout",
+            "status": "",
+            "foods": "May be used in any food.",
+            "details": "Derived from a naturally-found nuceotide (component of DNA) that is commercially synthesised for use as a food additive."
+        },
+        {
+            "id": 11,
+            "code": "E630",
+            "name": "Inosinic acid",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "Dried gravy granules, cured and prepared meats, meat soups.",
+            "details": "Component of muscle that can be obtained from meat extract and dried sardines."
+        },
+        {
+            "id": 12,
+            "code": "E631",
+            "name": "Disodium inosinate",
+            "function": "flavour enhancer",
+            "warnings": "May trigger gout, not permitted in foods for infants and young children.",
+            "status": "",
+            "foods": "Dried gravy granules, cured and prepared meats, meat soups.",
+            "details": "Component of muscle that can be obtained from meat extract and dried sardines."
+        },
+        {
+            "id": 13,
+            "code": "E632",
+            "name": "Dipotassium inosinate",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "Dried gravy granules, cured and prepared meats, meat soups.",
+            "details": "Component of muscle that can be obtained from meat extract and dried sardines."
+        },
+        {
+            "id": 14,
+            "code": "E633",
+            "name": "Calcium inosinate",
+            "function": "flavour enhancer",
+            "warnings": "May trigger gout",
+            "status": "",
+            "foods": "Dried gravy granules, cured and prepared meats, meat soups.",
+            "details": "Component of muscle that can be obtained from meat extract and dried sardines."
+        },
+        {
+            "id": 15,
+            "code": "E634",
+            "name": "Calcium 5'-ribonucleotides",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "May be used in any food.",
+            "details": "Similar to the molecules that make up DNA."
+        },
+        {
+            "id": 16,
+            "code": "E635",
+            "name": "Disodium 5'-ribonucleotides",
+            "function": "flavour enhancer",
+            "warnings": "May be associated with itchy skin rashes up to 30 hours after ingestion. Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Reconstituted dried potato products.",
+            "details": "Similar to the molecules that make up DNA."
+        },
+        {
+            "id": 17,
+            "code": "E636",
+            "name": "Maltol",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Derived from the bark of larch trees, pine needles, chicory wood, oils and roasted malt; it may be produced synthetically."
+        },
+        {
+            "id": 18,
+            "code": "E637",
+            "name": "Ethyl maltol",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Derived from maltol."
+        },
+        {
+            "id": 19,
+            "code": "E640",
+            "name": "Glycine and its sodium salt",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "May be used in any food.",
+            "details": "Naturally-occuring amino acid."
+        },
+        {
+            "id": 20,
+            "code": "E650",
+            "name": "Zinc acetate",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "Chewing gum.",
+            "details": "Zinc salt of acetic acid. Acts as a breth-freshener."
+        }
+    ],
+    "antibiotics": [
+        {
+            "id": 1,
+            "code": "E710",
+            "name": "Spiramycins",
+            "function": "antibiotic",
+            "warnings": "",
+            "status": "",
+            "foods": "Dairy, meat, egg-products. Only allowed with special permission.",
+            "details": "Spiramycins are a class of antibiotics, produced by the mould Streptomyces ambofaciens."
+        },
+        {
+            "id": 2,
+            "code": "E713",
+            "name": "Tylosin",
+            "function": "antibiotic",
+            "warnings": "",
+            "status": "",
+            "foods": "Dairy, meat, egg-products. Only allowed with special permission.",
+            "details": "Tylosin is an antibiotic, produced by the mould Streptomyces fradiae."
+        }
+    ],
+    "miscellaneous": [
+        {
+            "id": 1,
+            "code": "E900",
+            "name": "Dimethylpolysiloxane",
+            "function": "anti-caking agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Jams, soft drinks, soups, brewing process.",
+            "details": "Silicone based. Helps to prevent powders from clumping together and becoming difficult to pour."
+        },
+        {
+            "id": 2,
+            "code": "E901",
+            "name": "Beeswax",
+            "function": "glazing agent",
+            "warnings": "Occasionally causes allergic reactions.",
+            "status": "",
+            "foods": "Cakes and confectionery. Used to wax fruit.",
+            "details": "Purified from honey-bee hives. Made by bees, but does not contain insects."
+        },
+        {
+            "id": 3,
+            "code": "E902",
+            "name": "Candelilla wax",
+            "function": "glazing agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Chocolate, nuts, coffee beans, fruits.",
+            "details": "Glazing agents help to give the food an appealing appearance."
+        },
+        {
+            "id": 4,
+            "code": "E903",
+            "name": "Carnauba wax",
+            "function": "glazing agent",
+            "warnings": "Occasionally causes allergic reactions.",
+            "status": "",
+            "foods": "Chocolate confectionery. Used in cosmetics and inks, and to wax fruit.",
+            "details": "Derived from a South American palm."
+        },
+        {
+            "id": 5,
+            "code": "E904",
+            "name": "Shellac",
+            "function": "glazing agent",
+            "warnings": "Occasionally causes irritations of the skin.",
+            "status": "",
+            "foods": "Sweets, edible cake decorations.",
+            "details": "Obtained from a resin produced by 'lac' insects and scale insects."
+        },
+        {
+            "id": 6,
+            "code": "E905",
+            "name": "Microcrystalline wax",
+            "function": "glazing agent",
+            "warnings": "May be a link to bowel cancer.",
+            "status": "",
+            "foods": "Confectionery, dried fruits.",
+            "details": "Synthetically-produced waxes."
+        },
+        {
+            "id": 7,
+            "code": "E907",
+            "name": "Refined microcrystalline wax",
+            "function": "glazing agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 8,
+            "code": "E912",
+            "name": "Montan acid esters",
+            "function": "glazing agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Fruits",
+            "details": "Glazing agents help to give the food an appealing appearance."
+        },
+        {
+            "id": 9,
+            "code": "E913",
+            "name": "Lanolin",
+            "function": "glazing agent",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Derived from sheep wool."
+        },
+        {
+            "id": 10,
+            "code": "E914",
+            "name": "Oxidised polyethylene wax",
+            "function": "glazing agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Fruits",
+            "details": "Glazing agents help to give the food an appealing appearance."
+        },
+        {
+            "id": 11,
+            "code": "E920",
+            "name": "L-cysteine",
+            "function": "improving agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Cakes, chicken soup.",
+            "details": "Flour treatment agent derived from animal hair and chicken feathers."
+        },
+        {
+            "id": 12,
+            "code": "E921",
+            "name": "L-Cystin",
+            "function": "improving agent",
+            "warnings": "",
+            "status": "",
+            "foods": "See E920.",
+            "details": "See E920."
+        },
+        {
+            "id": 13,
+            "code": "E924",
+            "name": "Potassium bromate",
+            "function": "improving agent",
+            "warnings": "Can cause nausea, vomiting, diarrhea, pain.",
+            "status": "",
+            "foods": "Flour products.",
+            "details": ""
+        },
+        {
+            "id": 14,
+            "code": "E925",
+            "name": "Chlorine",
+            "function": "preservative; bleach; improving agent",
+            "warnings": "Destroys nutrients, carcinogen, in some areas tap water is contaminated with it, to make it 'safer' to drink.",
+            "status": "",
+            "foods": "Flour products.",
+            "details": ""
+        },
+        {
+            "id": 15,
+            "code": "E926",
+            "name": "Chlorine dioxide",
+            "function": "bleach",
+            "warnings": "See E925.",
+            "status": "",
+            "foods": "See E925.",
+            "details": ""
+        },
+        {
+            "id": 16,
+            "code": "E927b",
+            "name": "Carbamide",
+            "function": "improving agent",
+            "warnings": "Avoid it, banned in some countries.",
+            "status": "",
+            "foods": "Cakes",
+            "details": "Used in cakes to improve the flour during baking conditions."
+        },
+        {
+            "id": 17,
+            "code": "E928",
+            "name": "Benzoyl peroxide",
+            "function": "bleach",
+            "warnings": "Asthmatics and people with a history of allergies must beware.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 18,
+            "code": "E931",
+            "name": "Nitrogen",
+            "function": "",
+            "warnings": "",
+            "status": "Safe",
+            "foods": "",
+            "details": "Used in freezing and vacuum packing."
+        },
+        {
+            "id": 19,
+            "code": "E932",
+            "name": "Nitrous oxide",
+            "function": "",
+            "warnings": "Safe in small quantities",
+            "status": "Safe",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 20,
+            "code": "E938",
+            "name": "Argon",
+            "function": "packaging gas",
+            "warnings": "",
+            "status": "",
+            "foods": "Variety of foods during their packagaing and transport.",
+            "details": "Inert gas that helps to prevent oxidation and microbials growth."
+        },
+        {
+            "id": 21,
+            "code": "E939",
+            "name": "Helium",
+            "function": "packaging gas",
+            "warnings": "",
+            "status": "",
+            "foods": "Variety of foods during their packagaing and transport.",
+            "details": "Inert gas that helps to prevent oxidation and microbials growth."
+        },
+        {
+            "id": 22,
+            "code": "E941",
+            "name": "Nitrogen",
+            "function": "propellant",
+            "warnings": "",
+            "status": "",
+            "foods": "Variety of foods during their packagaing and transport. Used in freezing and vacuum packing.",
+            "details": "Inert gas that helps to prevent oxidation and microbials growth."
+        },
+        {
+            "id": 23,
+            "code": "E942",
+            "name": "Nitrous oxide",
+            "function": "propellant",
+            "warnings": "Seems quite safe in small quantities.",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 24,
+            "code": "E943a",
+            "name": "Butane",
+            "function": "propellant",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 25,
+            "code": "E943b",
+            "name": "Iso-butane",
+            "function": "propellant",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 26,
+            "code": "E944",
+            "name": "Propane",
+            "function": "propellant",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Hydrocarbon gas."
+        },
+        {
+            "id": 27,
+            "code": "E948",
+            "name": "Oxygen",
+            "function": "packaging gas",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Atmospheric gas."
+        },
+        {
+            "id": 28,
+            "code": "E949",
+            "name": "Hydrogen",
+            "function": "packaging gas",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Gas"
+        },
+        {
+            "id": 29,
+            "code": "E950",
+            "name": "Acesulphane potassium",
+            "function": "sweetener",
+            "warnings": "",
+            "status": "",
+            "foods": "Sweeteners, diet drinks, desserts, baked foods and puddings.",
+            "details": "Artificial sweetener discovered in 1967. It is approximately 200 times sweeter than sucrose and used in many low-calorie products."
+        },
+        {
+            "id": 30,
+            "code": "E951",
+            "name": "Aspartame",
+            "function": "sweetener",
+            "warnings": "Adverse effects, migraine headaches.",
+            "status": "",
+            "foods": "Sweeteners, diet drinks, desserts, baked foods and puddings.",
+            "details": "Artificial sweetener which is composed of aspartic acid and the methyl ester of phenylalanine (both amino acids). Used as a low-calorie sweetener in thousands of different products."
+        },
+        {
+            "id": 31,
+            "code": "E952",
+            "name": "Cyclamic acid and its Na and Ca salts",
+            "function": "sweetener",
+            "warnings": "Migraines, can be carcinogenic.",
+            "status": "Banned in the US and UK.",
+            "foods": "Low calorie, non-alcoholic drinks.",
+            "details": "Artificial sweetener that is approximately 30 times sweeter than sucrose (table sugar)."
+        },
+        {
+            "id": 32,
+            "code": "E953",
+            "name": "lsomalt",
+            "function": "sweetener",
+            "warnings": "",
+            "status": "",
+            "foods": "Desserts, ice cream, confectionery, sauces.",
+            "details": "Derived from naturally-occuring sugars."
+        },
+        {
+            "id": 33,
+            "code": "E954",
+            "name": "Saccharin and its Na, K and Ca salts",
+            "function": "sweetener",
+            "warnings": "May be hazardous to your health, determined to cause cancer in laboratory animals.",
+            "status": "",
+            "foods": "Soft drinks, sugar substitutes.",
+            "details": "One of the first artificial sweeteners."
+        },
+        {
+            "id": 34,
+            "code": "E955",
+            "name": "Sucralose",
+            "function": "sweetener",
+            "warnings": "",
+            "status": "",
+            "foods": "Used in foods as a sugar replacement.",
+            "details": "Derived from sugar (sucrose) but modified so that it is not absorbed into the body. Used as a low calorie sweetener and substitute for sugar."
+        },
+        {
+            "id": 35,
+            "code": "E957",
+            "name": "Thaumatin",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "Used to sweeten wines, bread and fruit.",
+            "details": "Plant protein extracted from a fruit native to West Africa."
+        },
+        {
+            "id": 36,
+            "code": "E959",
+            "name": "Neohesperidine DC",
+            "function": "flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "Some drinks.",
+            "details": "Plant material extracted and purified from grapefruit skin."
+        },
+        {
+            "id": 37,
+            "code": "E965",
+            "name": "Maltitol; Maltitol syrup",
+            "function": "humectant",
+            "warnings": "",
+            "status": "",
+            "foods": "Desserts, ice cream, confectionery, sauces.",
+            "details": "Derived from naturally-occuring sugars."
+        },
+        {
+            "id": 38,
+            "code": "E966",
+            "name": "Lactitol",
+            "function": "sweetener",
+            "warnings": "",
+            "status": "",
+            "foods": "Desserts, ice cream, confectionery, sauces.",
+            "details": "Derived from naturally-occuring sugars."
+        },
+        {
+            "id": 39,
+            "code": "E967",
+            "name": "Xylitol",
+            "function": "sweetener",
+            "warnings": "",
+            "status": "",
+            "foods": "Desserts, ice cream, confectionery, sauces.",
+            "details": "Derived from naturally-occuring sugars."
+        },
+        {
+            "id": 40,
+            "code": "E999",
+            "name": "Quillaia extract",
+            "function": "foaming agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Beer and soda.",
+            "details": "Extracted from the bark of the soap tree (Quillaia saponaria). The tree is native to China and Peru and is commercially cultivated in southern California. Known to promote healing and reduce excessive oiliness in the skin."
+        }
+    ],
+    "other chemicals": [
+        {
+            "id": 1,
+            "code": "E1100",
+            "name": "Amylase",
+            "function": "stabiliser; flavour enhancer",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Derived from mould mushroom or pig pancreas."
+        },
+        {
+            "id": 2,
+            "code": "E1103",
+            "name": "Invertase",
+            "function": "stabiliser",
+            "warnings": "",
+            "status": "",
+            "foods": "Confectionery, soft-centred chocolates.",
+            "details": "Enzyme that breaks down sucrose. Commercially derived from the fermentation of yeast."
+        },
+        {
+            "id": 3,
+            "code": "E1105",
+            "name": "Lysozyme",
+            "function": "preservative",
+            "warnings": "",
+            "status": "",
+            "foods": "Ripened cheese.",
+            "details": "A naturally occuring enzyme that kills bacteria. Origin - chicken eggs."
+        },
+        {
+            "id": 4,
+            "code": "E1200",
+            "name": "Polydextrose",
+            "function": "stabiliser; thickener",
+            "warnings": "",
+            "status": "",
+            "foods": "Baked products, chewing gum, dairy desserts, sweets.",
+            "details": "Polydextrose is a low-calorie thickener that can help to replace sugars and fats."
+        },
+        {
+            "id": 5,
+            "code": "E1201",
+            "name": "Polyvinylpyrrolidone",
+            "function": "stabiliser",
+            "warnings": "",
+            "status": "",
+            "foods": "Dietary food supplement (tablets).",
+            "details": "Carriers are substances that can be used to contain another additive."
+        },
+        {
+            "id": 6,
+            "code": "E1202",
+            "name": "Polyvinylpolypyrrolidone",
+            "function": "stabiliser",
+            "warnings": "",
+            "status": "",
+            "foods": "Dietary food supplement (tablets).",
+            "details": "Carriers are substances that can be used to contain another additive."
+        },
+        {
+            "id": 7,
+            "code": "E1404",
+            "name": "Oxidised starch",
+            "function": "thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, sald dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 8,
+            "code": "E1410",
+            "name": "Monostarch phosphate",
+            "function": "stabiliser; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 9,
+            "code": "E1412",
+            "name": "Distarch phosphate",
+            "function": "stabiliser; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 10,
+            "code": "E1413",
+            "name": "Phosphated distarch phosphate",
+            "function": "stabiliser; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 11,
+            "code": "E1414",
+            "name": "Acetylated distarch phosphate",
+            "function": "emulsifier; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 12,
+            "code": "E1420",
+            "name": "Acetylated starch",
+            "function": "stabiliser; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it."
+        },
+        {
+            "id": 13,
+            "code": "E1422",
+            "name": "Acetylated distarch adipate",
+            "function": "stabiliser; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it."
+        },
+        {
+            "id": 14,
+            "code": "E1440",
+            "name": "Hydroxyl propyl starch",
+            "function": "emulsifier; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 15,
+            "code": "E1442",
+            "name": "Hydroxyl propyl distarch phosphate",
+            "function": "stabiliser; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 16,
+            "code": "E1450",
+            "name": "Starch sodium octenyl succinate",
+            "function": "stabiliser; emulsifier; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 17,
+            "code": "E1451",
+            "name": "Acetylated oxidised starch",
+            "function": "emulsifier; thickening agent",
+            "warnings": "",
+            "status": "",
+            "foods": "Ice cream, pizza, battered fish, salad dressings.",
+            "details": "Modified starches form gels when added to foods. This thickens the food without having to heat it. They can also be used to help stabilise oily foods. The starch helps to emulsify the fats and so prevent the fat separating out."
+        },
+        {
+            "id": 18,
+            "code": "E1505",
+            "name": "Triethyl citrate",
+            "function": "faom stbiliser",
+            "warnings": "Part becomes alcohol in the body.",
+            "status": "",
+            "foods": "Dried egg white.",
+            "details": "Used in dried egg whites to allow them to foam correctly when beaten."
+        },
+        {
+            "id": 19,
+            "code": "E150a",
+            "name": "Plain caramel",
+            "function": "food coloring (range from dark brown to black)",
+            "warnings": "HACSG recommends to avoid it.",
+            "status": "",
+            "foods": "Beer, brown bread, buns, chocolate, biscuits, brandy, chocolate flavoured flour based confectionery, coatings, decorations, fillings and toppings, crisps, dessert mixes, doughnuts, fish and shellfish spreads, frozen desserts, glucose tablets, gravy browning, ice cream, jams, milk desserts, pancakes, pickles, sauces and dressings, soft drinks particularly cola drinks, stouts, sweets, vinegar, whisky and wines.",
+            "details": "Made by controlled heat treatment of sugar beet or sugar cane (with or without the presence of alkalis or acids). The caramel group of colours are the most widely used group of colours, comprising some 98% of all colours used."
+        },
+        {
+            "id": 20,
+            "code": "E150b",
+            "name": "Caustic sulphite caramel",
+            "function": "food coloring",
+            "warnings": "See E150a",
+            "status": "",
+            "foods": "See E150a",
+            "details": "See E150a"
+        },
+        {
+            "id": 21,
+            "code": "E150c",
+            "name": "Ammonia caramel",
+            "function": "food coloring",
+            "warnings": "See E150a",
+            "status": "",
+            "foods": "See E150a",
+            "details": "See E150a"
+        },
+        {
+            "id": 22,
+            "code": "E150d",
+            "name": "Sulphite ammonia caramel",
+            "function": "food coloring",
+            "warnings": "See E150a",
+            "status": "",
+            "foods": "See E150a",
+            "details": "See E150a"
+        },
+        {
+            "id": 23,
+            "code": "E151",
+            "name": "Black PN; Brilliant Black BN",
+            "function": "food coloring",
+            "warnings": "Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "Banned in Denmark, Australia, Austria, Belgium, Canada, Finland, France, Germany, Japan, Norway, Switzerland, Sweden, USA and Norway.",
+            "foods": "Used in decorations and coatings, desserts, fish paste, flavoured milk drinks, ice cream, mustard, red fruit jams, sauces, savoury snacks, soft drinks, soups and sweets.",
+            "details": "A violet/black synthetic coal tar and azo dye."
+        },
+        {
+            "id": 24,
+            "code": "E1510",
+            "name": "Ethanol",
+            "function": "",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Alcohol"
+        },
+        {
+            "id": 25,
+            "code": "E1518",
+            "name": "Glyceryl triacetate, triacetin",
+            "function": "humectant",
+            "warnings": "",
+            "status": "",
+            "foods": "Baked foods and mixes, soft drinks, chewing gum and sweets.",
+            "details": "Helps to prevent the food it is added to from drying out."
+        },
+        {
+            "id": 26,
+            "code": "E1520",
+            "name": "Propylene glycol",
+            "function": "humectant; anti-caking agent",
+            "warnings": "Has been linked with fatal heart attacks, central nervous system depression, contact dermatitis.",
+            "status": "",
+            "foods": "Frozen dairy products.",
+            "details": "Helps to prevent the food it is added to from drying out."
+        }
+    ]
+}
