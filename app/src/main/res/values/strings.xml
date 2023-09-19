@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FoodEs</string>
+
+    <string-array name="categories">
+        <item>colors</item>
+        <item>preservatives</item>
+        <item>antioxidants, acidity regulators</item>
+        <item>thickeners, stabilizers, emulsifiers</item>
+        <item>acidity regulators, anti-caking agents</item>
+        <item>flavour enhancers</item>
+        <item>antibiotics</item>
+        <item>miscellaneous</item>
+        <item>other chemicals</item>
+    </string-array>
 </resources>
