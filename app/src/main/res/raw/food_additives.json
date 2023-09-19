@@ -1,509 +1,510 @@
 {
-    "colors": [
 
-    {
-        "id": 1,
-        "code": "E100",
-        "name": "Curcuma (turmeric)",
-        "function": "food coloring (yellow-orange)",
-        "warnings": "Safe in recommended doses. High doses should not be taken by people with gallstones, obstructive jaundice, acute bilious colic or toxic liver disorders.",
-        "status": "Safe",
-        "foods": "Fats and oils, curry, processed cheese and fish fingers.",
-        "details": "Orange-yellow colouring extracted from the rhizomes of the turmeric plant."
-    },
-    {
-        "id": 2,
-        "code": "E101",
-        "name": "Riboflavin (Vitamin B2)",
-        "function": "food coloring (yellow-orange)",
-        "warnings": "",
-        "status": "Safe",
-        "foods": "Sauces, processed cheese and foods with added vitamins such as bread.",
-        "details": "Riboflavin is also known as vitamin B2. Obtained by fermenting yeast or synthesised artificially."
-    },
-    {
-        "id": 3,
-        "code": "E101a",
-        "name": "Riboflavin-5'-Phosphate",
-        "function": "food coloring (yellow-orange)",
-        "warnings": "",
-        "status": "",
-        "foods": "Found in many foods for babies and young children as well as jams, milk products and sweets and sugar products.",
-        "details": "Consists mainly of the monosodium salt of the 5'-monophosphate ester of riboflavin dihydrate obtained from chemical action on E101 Riboflavin. It is rapidly turned to free riboflavin after ingestion."
-    },
-    {
-        "id": 4,
-        "code": "E102",
-        "name": "Tartrazine (FD&C Yellow 5)",
-        "function": "food coloring (lemon yellow)",
-        "warnings": "Provokes asthma attacks, urticaria in children, linked to thyroid tumors, chromosomal damage. Tartrazine appears to cause the most allergic and/or intolerance reactions of all the azo dyes, particularly amongst those with an aspirin intolerance and asthmatics. Other reactions can include migraine, blurred vision, itching, rhinitis and purple skin patches. In conjunction with E210 tartrazine appears to create an over-activity in children.",
-        "status": "Unpermitted (Banned in Norway and Austria.)",
-        "foods": "Fruit squash, fruit cordial, coloured fizzy drinks, instant puddings, cake mixes, custard powder, soups, sauces, ice cream, ice lollies, sweets, chewing gum, marzipan, jam, jelly, marmalade, mustard, yoghurt and many convenience foods together with glycerine, lemon and honey products.",
-        "details": "Yellow coloured synthetic azo colour."
-    },
-    {
-        "id": 5,
-        "code": "E103",
-        "name": "Chrysoine resorcinol",
-        "function": "food coloring (golden)",
-        "warnings": "",
-        "status": "Forbidden (Banned in Europe since 1984. In the US, it was banned in 1988.)",
-        "foods": "",
-        "details": ""
-    },
-    {
-        "id": 6,
-        "code": "E104",
-        "name": "Quinoline Yellow",
-        "function": "food coloring (dull or greenish yellow)",
-        "warnings": "Cause dermatitis. Not recommended for consumption by children. HACSG recommends to avoid it.",
-        "status": "Not permitted. Banned in Australia, Japan, Norway and US.",
-        "foods": "Smoked fish, ice cream, scotch eggs and smoked haddock. Used in lipsticks hair products, colognes; also in a wide range of medications;",
-        "details": "The disodium salt of disulphonic acid. A synthetic 'coal tar' dye."
-    },
-    {
-        "id": 7,
-        "code": "E105",
-        "name": "Fast Yellow AB",
-        "function": "food coloring (yellow)",
-        "warnings": "",
-        "status": "Forbidden",
-        "foods": "",
-        "details": "An azo dye."
-    },
-    {
-        "id": 8,
-        "code": "E106",
-        "name": "Riboflavin-5-Sodium Phosphate",
-        "function": "food coloring (yellow)",
-        "warnings": "",
-        "status": "",
-        "foods": "",
-        "details": "Similar to E101a."
-    },
-    {
-        "id": 9,
-        "code": "E107",
-        "name": "Yellow 2G",
-        "function": "food coloring (yellow)",
-        "warnings": "People who suffer Asthma may also show an allergic reaction to it. HACSG recommends to avoid it.",
-        "status": "Banned in Austria, Japan, Norway, Sweden, Switzerland and US.",
-        "foods": "Typical products are soft drinks.",
-        "details": "It has the appearance of a yellow powder, soluble in water. It is a synthetic coal tar and yellow azo dye."
-    },
-    {
-        "id": 10,
-        "code": "E110",
-        "name": "Sunset Yellow FCF (Orange Yellow S)",
-        "function": "food coloring (yellow-orange)",
-        "warnings": "Urticaria (hives), rhinitis (runny nose), nasal congestion, allergies, hyperactivity, kidney tumors, chromosomal damage, abdominal pain, nausea and vomiting, indigestion, distaste for food; increased incidence of tumors in animals. It appears to cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance. Not recommended for consumption by children. HACSG recommends to avoid it.",
-        "status": "Banned in Finland, Norway & the UK (voluntarily). Products in the EU require warnings and is evaluating a phase-out.",
-        "foods": "Orange squash, orange jelly, marzipan, Swiss roll, apricot jam, citrus marmalade, lemon curd, sweets, hot chocolate mix and packet soups, breadcrumbs, cheese sauce, ice cream, canned fish, and many medications.",
-        "details": "A synthetic 'coal tar' and azo yellow dye used in fermented foods which must be heat treated."
-    },
-    {
-        "id": 11,
-        "code": "E111",
-        "name": "Orange GGN",
-        "function": "food coloring (orange)",
-        "warnings": "",
-        "status": "Forbidden",
-        "foods": "",
-        "details": "Orange GGN, also known as alpha-naphthol orange, is a food dye."
-    },
-    {
-        "id": 12,
-        "code": "E120",
-        "name": "Cochineal; Carminic acid; Carmines",
-        "function": "food coloring (crimson)",
-        "warnings": "May cause allergic reactions. Not recommended for consumption by children. HACSG recommends to avoid it.",
-        "status": "",
-        "foods": "Alcoholic drinks, bakery products and toppings, biscuits, desserts, drinks, icings, pie fillings, some varieties of cheddar cheese, sauces and sweets.",
-        "details": "An expensive red colouring, not suitable for vegetarians as it is extracted from the crushed carcasses of the female Dactylopius coccus, a cactus-feeding scale insect, which are killed by either immersion in hot water or by exposure to sunlight, steam, or the heat of an oven."
-    },
-    {
-        "id": 13,
-        "code": "E121",
-        "name": "Citrus Red 2",
-        "function": "food coloring (dark red)",
-        "warnings": "Carcinogen",
-        "status": "Forbidden (Permitted in the US.)",
-        "foods": "",
-        "details": "It is an orange to yellow solid or a dark red powder with a melting point of 156 °C."
-    },
-    {
-        "id": 14,
-        "code": "E122",
-        "name": "Carmoisine; Azorubine",
-        "function": "food coloring (red to maroon)",
-        "warnings": "It appears to cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance. Other reactions can include a rash similar to nettle rash and water retention. Not recommended for consumption by children. HACSG recommends to avoid it.",
-        "status": "Undergoing a voluntary phase-out in the UK, currently banned in Canada, Japan, Norway, USA & Sweden. EU currently evaluating health risks.",
-        "foods": "Foods which must be heat treated after fermentation. Also found in blancmange, marzipan, Swiss roll, jams and preserves, sweets, brown sauce, flavoured yogurts, packet soups, jellies, breadcrumbs and cheesecake mixes.",
-        "details": "Red coloured synthetic azo colour."
-    },
-    {
-        "id": 15,
-        "code": "E123",
-        "name": "Amaranth; FD&C Red 2",
-        "function": "food coloring (blue)",
-        "warnings": "It appears to cause allergic and/or intolerance reactions, similar to nettle rash, particularly amongst those with an aspirin intolerance or asthmatics. can provoke asthma, eczema and hyperactivity; it caused birth defects and foetal deaths in some animal tests, possibly also cancer. Not recommended for consumption by children.",
-        "status": "Forbidden (Banned in the United States in 1976. Several countries still use it!)",
-        "foods": "Ice creams, gravy granules, jams, jelly, tinned fruit pie fillings and prawns and packeted cake mixes, soups and trifles.",
-        "details": "Derived from the small herbaceous plant of the same name. A purplish-red (blackcurrant) synthetic coal tar or azo dye."
-    },
-    {
-        "id": 16,
-        "code": "E124",
-        "name": "Ponceau 4R; Cochineal Red A, Brilliant Scarlet 4R",
-        "function": "food coloring (red)",
-        "warnings": "It appears to cause allergic and/or intolerance reactions particularly amongst those with an aspirin intolerance or asthmatics. Carcinogen in animals. Not recommended for consumption by children. HACSG recommends to avoid it.",
-        "status": "Unpermitted (Banned in Norway and USA)",
-        "foods": "Sessert toppings, jelly, salami, seafood dressings, tinned strawberries and fruit pie fillings and packeted cake mixes, cheesecakes, soups and trifles.",
-        "details": "A red synthetic coal tar or azo dye."
-    },
-    {
-        "id": 17,
-        "code": "E125",
-        "name": "Ponceau SX; Scarlet GN",
-        "function": "food coloring (red)",
-        "warnings": "",
-        "status": "Forbidden",
-        "foods": "",
-        "details": "A red azo dye."
-    },
-    {
-        "id": 18,
-        "code": "E126",
-        "name": "Ponceau 6R",
-        "function": "food coloring (red)",
-        "warnings": "",
-        "status": "Forbidden",
-        "foods": "",
-        "details": "A red azo dye. It is soluble in water and slightly soluble in ethanol."
-    },
-    {
-        "id": 19,
-        "code": "E127",
-        "name": "Erythrosine (FD&C Red 3)",
-        "function": "food coloring (red)",
-        "warnings": "Because food processing at temperatures above 200°c partly degrades Erythrosine, releasing iodide, there are fears that it could affect thyroid activity, can increase thyroid hormone levels and lead to hyperthyroidism, was shown to cause thyroid cancer in rats in a study in 1990. It is toxic to some strains of yeast cells and is also implicated in phototoxicity (a sensitivity to light). Not recommended for consumption by children. HACSG recommends to avoid it.",
-        "status": "Unpermitted (Banned in Norway and USA.)",
-        "foods": "Cocktail, glacé and tinned cherries, canned fruit, custard mix, sweets, bakery, snack foods, biscuits, chocolate, dressed crab, garlic sausage, luncheon meat, salmon spread, paté, scotch eggs, stuffed olives and packet trifle mix. It is also used to reveal plaque in dental disclosing tablets.",
-        "details": "A cherry-pink/red synthetic coal tar dye."
-    },
-    {
-        "id": 20,
-        "code": "E128",
-        "name": "Red 2G",
-        "function": "food coloring (red)",
-        "warnings": "Concerns that it can interfere with blood haemoglobin. Not recommended for consumption by children.",
-        "status": "Forbidden (Used in Britain.)",
-        "foods": "Meat products and sausages but can also be found in jams and drinks.",
-        "details": "A red synthetic coal tar or azo dye."
-    },
-    {
-        "id": 21,
-        "code": "E129",
-        "name": "Allura Red AC (FD&C Red 40)",
-        "function": "food coloring (red)",
-        "warnings": "May have slightly less allergy/intolerance reaction by aspirin intolerant people and asthmatics than most of the azo dyes, although those with skin sensitivities should be careful. Allura red has also been connected with cancer in mice. Not recommended for consumption by children.",
-        "status": "Permitted in the US and by the EU (Banned in Denmark, Belgium, France, Switzerland & Sweden. Undergoing a voluntary phase out in the UK.)",
-        "foods": "Sweets, drinks and condiments, medications and cosmetics.",
-        "details": "A red synthetic azo dye introduced in the early eighties to replace Amaranth, E123, in USA where E123 is prohibited."
-    },
-    {
-        "id": 22,
-        "code": "E130",
-        "name": "Indanthrene blue RS",
-        "function": "food coloring (blue)",
-        "warnings": "",
-        "status": "Forbidden",
-        "foods": "",
-        "details": "Indanthrene Blue RS was patented in 1901 by Rene Bohn as the first anthraquinone vat dye, one of the dyes with very good fastness to light and washing. It is used to dye unmordanted cotton and as a pigment in quality paints and enamels."
-    },
-    {
-        "id": 23,
-        "code": "E131",
-        "name": "Patent Blue V",
-        "function": "food coloring (dark blue)",
-        "warnings": "Best avoided by people with allergy reactions as it can cause skin sensitivity, a rash similar to nettle rash, itching, nausea, low blood pressure, tremors and breathing problems.",
-        "status": "Dangerous (Banned in Australia, USA and Norway.)",
-        "foods": "Not widely used but can be found in Scotch eggs and is used diagnostically to colour lymph vessels.",
-        "details": "A dark bluish-violet synthetic coal tar dye."
-    },
-    {
-        "id": 24,
-        "code": "E132",
-        "name": "Indigo carmine; FD&C Blue 2",
-        "function": "food coloring (reddish blue)",
-        "warnings": "People with allergies should avoid it. May cause nausea, vomiting, high blood pressure, skin rashes, breathing problems and other allergic reactions.",
-        "status": "Banned in Norway.",
-        "foods": "Commonly added to tablets and capsules; also used in ice cream, sweets, baked goods, confectionery, biscuits. It is also used diagnostically to check for coloured urine in kidney function tests.",
-        "details": "A blue synthetic coal tar dye, normally produced by a synthesis of indoxyl by fusion of sodium phenylglycinate in a mixture of caustic soda and sodamide."
-    },
-    {
-        "id": 25,
-        "code": "E133",
-        "name": "Brilliant Blue FCF (FD&C Blue 1)",
-        "function": "food coloring (reddish blue)",
-        "warnings": "Not recommended for consumption by children. HACSG recommends to avoid it.",
-        "status": "Banned in Austria, Belgium, Denmark, France, Germany, Greece, Italy, Norway, Spain, Sweden and Switzerland.",
-        "foods": "Can be found in tinned processed peas, dairy products, sweets and drinks.",
-        "details": "A blue synthetic coal tar dye often used in conjunction with E102, Tartrazine, to produce various shades of green."
-    },
-    {
-        "id": 26,
-        "code": "E140",
-        "name": "Chlorophylls and chlorophyllins",
-        "function": "food coloring (green)",
-        "warnings": "Has no maximum recommended daily intake and is not subject to any prohibitions.",
-        "status": "",
-        "foods": "Used for dyeing waxes and oils, used in medicines and cosmetics eg in chewing gum, fats and oils, ice cream, soaps, soups, sweets and, obviously, green vegetables.",
-        "details": "A fairly unstable dye, which tends to fade easily."
-    },
-    {
-        "id": 27,
-        "code": "E141",
-        "name": "Copper complexes of chlorophylls and chlorophyllins",
-        "function": "food coloring (green)",
-        "warnings": "No adverse effects are known.",
-        "status": "",
-        "foods": "Found in some types of cheese, chewing gum, ice cream, Parsley sauce, soups and green vegetables and fruits preserved in liquids.",
-        "details": "Derived from Chlorophyll, E140, by substitution of copper for the magnesium, which increases stability."
-    },
-    {
-        "id": 28,
-        "code": "E142",
-        "name": "Green S",
-        "function": "food coloring (green)",
-        "warnings": "Known to cause hyperactivity, asthma, uticaria, and insomnia. HACSG recommends to avoid it.",
-        "status": "Unpermitted (Banned in Canada, Finland, Japan, Norway, Sweden and the US.)",
-        "foods": "Desserts, gravy granules, ice cream, mint sauce, sweets, packet breadcrumbs, cake mixes and tinned peas.",
-        "details": "A green synthetic coal tar dye."
-    },
-    {
-        "id": 29,
-        "code": "E143",
-        "name": "Fast Green FCF (FD&C Green 3)",
-        "function": "food coloring (sea green)",
-        "warnings": "Found to have Tumorigenic effects in experimental animals, as well as Mutagenic effects in both experimental animals and humans. It furthermore risks irritation of eyes, skin, digestive tract, and respiratory tract in its undiluted form.",
-        "status": "",
-        "foods": "It can be used for tinned green peas and other vegetables, jellies, sauces, fish, desserts, and dry bakery mixes at level of up to 100 mg/kg.",
-        "details": "A sea green triarylmethane food dye."
-    },
-    {
-        "id": 30,
-        "code": "E153",
-        "name": "Vegetable carbon",
-        "function": "food coloring",
-        "warnings": "Suspected as a carcinogenic agent. Vegetarians should note that it can be of animal origin.",
-        "status": "Banned in USA. Still used in Australia.",
-        "foods": "Concentrated fruit juices, jams, jellies and liquorice.",
-        "details": "It is normally derived from burnt vegetable matter."
-    },
-    {
-        "id": 31,
-        "code": "E154",
-        "name": "Brown FK",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "Not permitted (Permitted in UK.)",
-        "foods": "Found mainly in kippers and smoked mackerel but also occasionally in cooked hams and crisps.",
-        "details": "A highly suspect brown mixture of six synthetic azo dyes together with other colourings and sodium chloride and/or sodium sulphate."
-    },
-    {
-        "id": 32,
-        "code": "E155",
-        "name": "Brown HT",
-        "function": "food coloring",
-        "warnings": "Bad reactions in asthmatics and people allergic to aspirin, also known to induce skin sensitivity. HACSG recommends to avoid it.",
-        "status": "Banned in Australia, Austria, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and USA.",
-        "foods": "Chocolate cake mixes.",
-        "details": "A brown synthetic 'coal tar' and azo dye found mainly in chocolate flavour cakes."
-    },
-    {
-        "id": 33,
-        "code": "E160a",
-        "name": "Carotenes",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "",
-        "foods": "Butter and soft margarines, coffee sponge cakes, milk products and soft drinks.",
-        "details": "Orange or yellow plant pigments. Converts to vitamin A in the body."
-    },
-    {
-        "id": 34,
-        "code": "E160b",
-        "name": "Annatto; Bixin; Norbixin",
-        "function": "food coloring",
-        "warnings": "Known to cause urticaria (nettle rash), the HACSG recommends to avoid it.",
-        "status": "Dangerous",
-        "foods": "Cheese, coleslaw, crisps, custard, fish fingers, flavoured instant mashed potato, fruit and cream fillings and toppings, frying oil, ice cream and lollies, icings, liqueurs, low calorie spreads, margarine, meat balls, salad cream and mayonnaise, smoked fish, soft drinks, sponge cakes and puddings, steak and kidney pie pastry and yoghurt.",
-        "details": "A yellow, peach or red vegetable dye obtained from the seed coat of the fruit of the Annatto tree, Bixa orellana."
-    },
-    {
-        "id": 35,
-        "code": "E160c",
-        "name": "Paprika extract; Capsanthian; Capsorubin",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "Not permitted in Australia.",
-        "foods": "Used widely in poultry feed to deepen the colour of egg yolks (see also E161b) it can also be found in cheese slices and chicken pies.",
-        "details": "An orange to red color extracted from the fruit pod and seeds of the red pepper, Capsicum annuum."
-    },
-    {
-        "id": 36,
-        "code": "E160d",
-        "name": "Lycopene",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "Not permitted in Australia.",
-        "foods": "Canned tomatoes.",
-        "details": "A red colour extracted from tomatoes and pink grapefruit."
-    },
-    {
-        "id": 37,
-        "code": "E160e",
-        "name": "Beta-apo-8' carotenal (C30)",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "",
-        "foods": "Processed cheese.",
-        "details": "Orange-yellow synthetic colour."
-    },
-    {
-        "id": 38,
-        "code": "E160f",
-        "name": "Ethyl ester of beta-apo-8'-carotenic acid (C 30)",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "",
-        "foods": "Cheese",
-        "details": "Synthesised version of a naturally-occuring orange colour."
-    },
-    {
-        "id": 39,
-        "code": "E161b",
-        "name": "Lutein",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "",
-        "foods": "Eggs",
-        "details": "Yellow-red colour extracted from plants. related to the carotenes (E160a). Can be added to chicken feed to enhance colour of egg yolk."
-    },
-    {
-        "id": 40,
-        "code": "E161g",
-        "name": "Canthaxanthin",
-        "function": "food coloring",
-        "warnings": "Found to accumulate on the retina, having a detrimental effect on eyesight.",
-        "status": "",
-        "foods": "Used in such products as chicken in breadcrumbs, fish fingers, mallow biscuits, pickles and preserves, sauces and sweets it is also fed to laying hens to make to colour egg yolks.",
-        "details": "Yellow color, historically it was prepared from shrimp waste or flaming feathers. Synthetic cantaxanthin is cheaper and has higher purity."
-    },
-    {
-        "id": 41,
-        "code": "E162",
-        "name": "Beetroot Red; Betanin",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "",
-        "foods": "Bacon burgers, desserts, ice cream, jams, jellies, liquorice, oxtail soup, sauces and sweets.",
-        "details": "purple color derived from beets"
-    },
-    {
-        "id": 42,
-        "code": "E163",
-        "name": "Anthocyanins",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "Safe",
-        "foods": "Black cherry yoghurt, dairy products, glacé cherries, ice cream, jellies, pickles, soft drinks, tomato, carrot or vegetable soups and sweets.",
-        "details": "Red-blue colours that are obtained from a variety of plant sources, especially grapes and red cabbage."
-    },
-    {
-        "id": 43,
-        "code": "E170",
-        "name": "Calcium carbonate",
-        "function": "food coloring",
-        "warnings": "Toxic at 'high doses'.",
-        "status": "",
-        "foods": "Biscuits, bread, cakes, ice cream, sweets, vitamin and other tablets and to firm canned fruit and vegetables, it is sometimes used for to deacidify wine. Also used in toothpastes, white paint and cleaning powders.",
-        "details": "Chalk. Used as a white colour. As it is an alkali, it may be also used to regulate the pH of foods such as canned fruits and vegetables."
-    },
-    {
-        "id": 44,
-        "code": "E171",
-        "name": "Titanium dioxide",
-        "function": "food coloring (pure white)",
-        "warnings": "Safe but pollutes waterways.",
-        "status": "",
-        "foods": "Tablets and capsules, cottage and Mozzarella cheeses, horseradish cream and sauces, lemon curd, toothpaste, and white paint, also in sweets.",
-        "details": "White, mineral-based colour."
-    },
-    {
-        "id": 45,
-        "code": "E172",
-        "name": "Iron oxides and hydroxides",
-        "function": "food coloring",
-        "warnings": "Toxic at 'high doses'.",
-        "status": "Banned in Germany.",
-        "foods": "Cake and dessert mixes, meat paste, salmon and shrimp paste.",
-        "details": "Naturally occurring pigments of iron, which can be yellow, red, orange, brown or black in colour."
-    },
-    {
-        "id": 46,
-        "code": "E173",
-        "name": "Aluminium",
-        "function": "food coloring",
-        "warnings": "Potentially toxic.",
-        "status": "Not permitted.",
-        "foods": "Used solely for external decoration.",
-        "details": "Silvery-white metal smelted from the ore, Bauxite."
-    },
-    {
-        "id": 47,
-        "code": "E174",
-        "name": "Silver",
-        "function": "food coloring",
-        "warnings": "Long, regular consumption can lead to kidney damage and a blue-grey discoloration of the eyes, nose and nasal septum, throat and skin.",
-        "status": "Not permitted.",
-        "foods": "Used solely for external decoration.",
-        "details": "Silver coloured surface coating."
-    },
-    {
-        "id": 48,
-        "code": "E175",
-        "name": "Gold",
-        "function": "food coloring",
-        "warnings": "Harmless, but best avoided.",
-        "status": "Not permitted in Australia.",
-        "foods": "Used solely for external decoration.",
-        "details": "Gold coloured surface coating."
-    },
-    {
-        "id": 49,
-        "code": "E180",
-        "name": "Pigment Rubine; Lithol Rubine BK",
-        "function": "food coloring",
-        "warnings": "People who suffer from asthma, rhinitis or the skin disease urticaria may find their symptoms become worse following consumption of azo dyes.",
-        "status": "Not permitted",
-        "foods": "Exterior of hard cheese.",
-        "details": "Red synthetic colour."
-    },
-    {
-        "id": 50,
-        "code": "E181",
-        "name": "Tannin",
-        "function": "food coloring",
-        "warnings": "",
-        "status": "",
-        "foods": "Clarifying agent in alcohol.",
-        "details": "Derived from the nutgalls and twigs of oak trees; occurs naturally in tea."
-    }
+        "colors": [
+
+        {
+            "id": 1,
+            "code": "E100",
+            "name": "Curcuma (turmeric)",
+            "function": "food coloring (yellow-orange)",
+            "warnings": "Safe in recommended doses. High doses should not be taken by people with gallstones, obstructive jaundice, acute bilious colic or toxic liver disorders.",
+            "status": "Safe",
+            "foods": "Fats and oils, curry, processed cheese and fish fingers.",
+            "details": "Orange-yellow colouring extracted from the rhizomes of the turmeric plant."
+        },
+        {
+            "id": 2,
+            "code": "E101",
+            "name": "Riboflavin (Vitamin B2)",
+            "function": "food coloring (yellow-orange)",
+            "warnings": "",
+            "status": "Safe",
+            "foods": "Sauces, processed cheese and foods with added vitamins such as bread.",
+            "details": "Riboflavin is also known as vitamin B2. Obtained by fermenting yeast or synthesised artificially."
+        },
+        {
+            "id": 3,
+            "code": "E101a",
+            "name": "Riboflavin-5'-Phosphate",
+            "function": "food coloring (yellow-orange)",
+            "warnings": "",
+            "status": "",
+            "foods": "Found in many foods for babies and young children as well as jams, milk products and sweets and sugar products.",
+            "details": "Consists mainly of the monosodium salt of the 5'-monophosphate ester of riboflavin dihydrate obtained from chemical action on E101 Riboflavin. It is rapidly turned to free riboflavin after ingestion."
+        },
+        {
+            "id": 4,
+            "code": "E102",
+            "name": "Tartrazine (FD&C Yellow 5)",
+            "function": "food coloring (lemon yellow)",
+            "warnings": "Provokes asthma attacks, urticaria in children, linked to thyroid tumors, chromosomal damage. Tartrazine appears to cause the most allergic and/or intolerance reactions of all the azo dyes, particularly amongst those with an aspirin intolerance and asthmatics. Other reactions can include migraine, blurred vision, itching, rhinitis and purple skin patches. In conjunction with E210 tartrazine appears to create an over-activity in children.",
+            "status": "Unpermitted (Banned in Norway and Austria.)",
+            "foods": "Fruit squash, fruit cordial, coloured fizzy drinks, instant puddings, cake mixes, custard powder, soups, sauces, ice cream, ice lollies, sweets, chewing gum, marzipan, jam, jelly, marmalade, mustard, yoghurt and many convenience foods together with glycerine, lemon and honey products.",
+            "details": "Yellow coloured synthetic azo colour."
+        },
+        {
+            "id": 5,
+            "code": "E103",
+            "name": "Chrysoine resorcinol",
+            "function": "food coloring (golden)",
+            "warnings": "",
+            "status": "Forbidden (Banned in Europe since 1984. In the US, it was banned in 1988.)",
+            "foods": "",
+            "details": ""
+        },
+        {
+            "id": 6,
+            "code": "E104",
+            "name": "Quinoline Yellow",
+            "function": "food coloring (dull or greenish yellow)",
+            "warnings": "Cause dermatitis. Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "Not permitted. Banned in Australia, Japan, Norway and US.",
+            "foods": "Smoked fish, ice cream, scotch eggs and smoked haddock. Used in lipsticks hair products, colognes; also in a wide range of medications;",
+            "details": "The disodium salt of disulphonic acid. A synthetic 'coal tar' dye."
+        },
+        {
+            "id": 7,
+            "code": "E105",
+            "name": "Fast Yellow AB",
+            "function": "food coloring (yellow)",
+            "warnings": "",
+            "status": "Forbidden",
+            "foods": "",
+            "details": "An azo dye."
+        },
+        {
+            "id": 8,
+            "code": "E106",
+            "name": "Riboflavin-5-Sodium Phosphate",
+            "function": "food coloring (yellow)",
+            "warnings": "",
+            "status": "",
+            "foods": "",
+            "details": "Similar to E101a."
+        },
+        {
+            "id": 9,
+            "code": "E107",
+            "name": "Yellow 2G",
+            "function": "food coloring (yellow)",
+            "warnings": "People who suffer Asthma may also show an allergic reaction to it. HACSG recommends to avoid it.",
+            "status": "Banned in Austria, Japan, Norway, Sweden, Switzerland and US.",
+            "foods": "Typical products are soft drinks.",
+            "details": "It has the appearance of a yellow powder, soluble in water. It is a synthetic coal tar and yellow azo dye."
+        },
+        {
+            "id": 10,
+            "code": "E110",
+            "name": "Sunset Yellow FCF (Orange Yellow S)",
+            "function": "food coloring (yellow-orange)",
+            "warnings": "Urticaria (hives), rhinitis (runny nose), nasal congestion, allergies, hyperactivity, kidney tumors, chromosomal damage, abdominal pain, nausea and vomiting, indigestion, distaste for food; increased incidence of tumors in animals. It appears to cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance. Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "Banned in Finland, Norway & the UK (voluntarily). Products in the EU require warnings and is evaluating a phase-out.",
+            "foods": "Orange squash, orange jelly, marzipan, Swiss roll, apricot jam, citrus marmalade, lemon curd, sweets, hot chocolate mix and packet soups, breadcrumbs, cheese sauce, ice cream, canned fish, and many medications.",
+            "details": "A synthetic 'coal tar' and azo yellow dye used in fermented foods which must be heat treated."
+        },
+        {
+            "id": 11,
+            "code": "E111",
+            "name": "Orange GGN",
+            "function": "food coloring (orange)",
+            "warnings": "",
+            "status": "Forbidden",
+            "foods": "",
+            "details": "Orange GGN, also known as alpha-naphthol orange, is a food dye."
+        },
+        {
+            "id": 12,
+            "code": "E120",
+            "name": "Cochineal; Carminic acid; Carmines",
+            "function": "food coloring (crimson)",
+            "warnings": "May cause allergic reactions. Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "",
+            "foods": "Alcoholic drinks, bakery products and toppings, biscuits, desserts, drinks, icings, pie fillings, some varieties of cheddar cheese, sauces and sweets.",
+            "details": "An expensive red colouring, not suitable for vegetarians as it is extracted from the crushed carcasses of the female Dactylopius coccus, a cactus-feeding scale insect, which are killed by either immersion in hot water or by exposure to sunlight, steam, or the heat of an oven."
+        },
+        {
+            "id": 13,
+            "code": "E121",
+            "name": "Citrus Red 2",
+            "function": "food coloring (dark red)",
+            "warnings": "Carcinogen",
+            "status": "Forbidden (Permitted in the US.)",
+            "foods": "",
+            "details": "It is an orange to yellow solid or a dark red powder with a melting point of 156 °C."
+        },
+        {
+            "id": 14,
+            "code": "E122",
+            "name": "Carmoisine; Azorubine",
+            "function": "food coloring (red to maroon)",
+            "warnings": "It appears to cause allergic and/or intolerance reactions, particularly amongst those with an aspirin intolerance. Other reactions can include a rash similar to nettle rash and water retention. Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "Undergoing a voluntary phase-out in the UK, currently banned in Canada, Japan, Norway, USA & Sweden. EU currently evaluating health risks.",
+            "foods": "Foods which must be heat treated after fermentation. Also found in blancmange, marzipan, Swiss roll, jams and preserves, sweets, brown sauce, flavoured yogurts, packet soups, jellies, breadcrumbs and cheesecake mixes.",
+            "details": "Red coloured synthetic azo colour."
+        },
+        {
+            "id": 15,
+            "code": "E123",
+            "name": "Amaranth; FD&C Red 2",
+            "function": "food coloring (blue)",
+            "warnings": "It appears to cause allergic and/or intolerance reactions, similar to nettle rash, particularly amongst those with an aspirin intolerance or asthmatics. can provoke asthma, eczema and hyperactivity; it caused birth defects and foetal deaths in some animal tests, possibly also cancer. Not recommended for consumption by children.",
+            "status": "Forbidden (Banned in the United States in 1976. Several countries still use it!)",
+            "foods": "Ice creams, gravy granules, jams, jelly, tinned fruit pie fillings and prawns and packeted cake mixes, soups and trifles.",
+            "details": "Derived from the small herbaceous plant of the same name. A purplish-red (blackcurrant) synthetic coal tar or azo dye."
+        },
+        {
+            "id": 16,
+            "code": "E124",
+            "name": "Ponceau 4R; Cochineal Red A, Brilliant Scarlet 4R",
+            "function": "food coloring (red)",
+            "warnings": "It appears to cause allergic and/or intolerance reactions particularly amongst those with an aspirin intolerance or asthmatics. Carcinogen in animals. Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "Unpermitted (Banned in Norway and USA)",
+            "foods": "Sessert toppings, jelly, salami, seafood dressings, tinned strawberries and fruit pie fillings and packeted cake mixes, cheesecakes, soups and trifles.",
+            "details": "A red synthetic coal tar or azo dye."
+        },
+        {
+            "id": 17,
+            "code": "E125",
+            "name": "Ponceau SX; Scarlet GN",
+            "function": "food coloring (red)",
+            "warnings": "",
+            "status": "Forbidden",
+            "foods": "",
+            "details": "A red azo dye."
+        },
+        {
+            "id": 18,
+            "code": "E126",
+            "name": "Ponceau 6R",
+            "function": "food coloring (red)",
+            "warnings": "",
+            "status": "Forbidden",
+            "foods": "",
+            "details": "A red azo dye. It is soluble in water and slightly soluble in ethanol."
+        },
+        {
+            "id": 19,
+            "code": "E127",
+            "name": "Erythrosine (FD&C Red 3)",
+            "function": "food coloring (red)",
+            "warnings": "Because food processing at temperatures above 200°c partly degrades Erythrosine, releasing iodide, there are fears that it could affect thyroid activity, can increase thyroid hormone levels and lead to hyperthyroidism, was shown to cause thyroid cancer in rats in a study in 1990. It is toxic to some strains of yeast cells and is also implicated in phototoxicity (a sensitivity to light). Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "Unpermitted (Banned in Norway and USA.)",
+            "foods": "Cocktail, glacé and tinned cherries, canned fruit, custard mix, sweets, bakery, snack foods, biscuits, chocolate, dressed crab, garlic sausage, luncheon meat, salmon spread, paté, scotch eggs, stuffed olives and packet trifle mix. It is also used to reveal plaque in dental disclosing tablets.",
+            "details": "A cherry-pink/red synthetic coal tar dye."
+        },
+        {
+            "id": 20,
+            "code": "E128",
+            "name": "Red 2G",
+            "function": "food coloring (red)",
+            "warnings": "Concerns that it can interfere with blood haemoglobin. Not recommended for consumption by children.",
+            "status": "Forbidden (Used in Britain.)",
+            "foods": "Meat products and sausages but can also be found in jams and drinks.",
+            "details": "A red synthetic coal tar or azo dye."
+        },
+        {
+            "id": 21,
+            "code": "E129",
+            "name": "Allura Red AC (FD&C Red 40)",
+            "function": "food coloring (red)",
+            "warnings": "May have slightly less allergy/intolerance reaction by aspirin intolerant people and asthmatics than most of the azo dyes, although those with skin sensitivities should be careful. Allura red has also been connected with cancer in mice. Not recommended for consumption by children.",
+            "status": "Permitted in the US and by the EU (Banned in Denmark, Belgium, France, Switzerland & Sweden. Undergoing a voluntary phase out in the UK.)",
+            "foods": "Sweets, drinks and condiments, medications and cosmetics.",
+            "details": "A red synthetic azo dye introduced in the early eighties to replace Amaranth, E123, in USA where E123 is prohibited."
+        },
+        {
+            "id": 22,
+            "code": "E130",
+            "name": "Indanthrene blue RS",
+            "function": "food coloring (blue)",
+            "warnings": "",
+            "status": "Forbidden",
+            "foods": "",
+            "details": "Indanthrene Blue RS was patented in 1901 by Rene Bohn as the first anthraquinone vat dye, one of the dyes with very good fastness to light and washing. It is used to dye unmordanted cotton and as a pigment in quality paints and enamels."
+        },
+        {
+            "id": 23,
+            "code": "E131",
+            "name": "Patent Blue V",
+            "function": "food coloring (dark blue)",
+            "warnings": "Best avoided by people with allergy reactions as it can cause skin sensitivity, a rash similar to nettle rash, itching, nausea, low blood pressure, tremors and breathing problems.",
+            "status": "Dangerous (Banned in Australia, USA and Norway.)",
+            "foods": "Not widely used but can be found in Scotch eggs and is used diagnostically to colour lymph vessels.",
+            "details": "A dark bluish-violet synthetic coal tar dye."
+        },
+        {
+            "id": 24,
+            "code": "E132",
+            "name": "Indigo carmine; FD&C Blue 2",
+            "function": "food coloring (reddish blue)",
+            "warnings": "People with allergies should avoid it. May cause nausea, vomiting, high blood pressure, skin rashes, breathing problems and other allergic reactions.",
+            "status": "Banned in Norway.",
+            "foods": "Commonly added to tablets and capsules; also used in ice cream, sweets, baked goods, confectionery, biscuits. It is also used diagnostically to check for coloured urine in kidney function tests.",
+            "details": "A blue synthetic coal tar dye, normally produced by a synthesis of indoxyl by fusion of sodium phenylglycinate in a mixture of caustic soda and sodamide."
+        },
+        {
+            "id": 25,
+            "code": "E133",
+            "name": "Brilliant Blue FCF (FD&C Blue 1)",
+            "function": "food coloring (reddish blue)",
+            "warnings": "Not recommended for consumption by children. HACSG recommends to avoid it.",
+            "status": "Banned in Austria, Belgium, Denmark, France, Germany, Greece, Italy, Norway, Spain, Sweden and Switzerland.",
+            "foods": "Can be found in tinned processed peas, dairy products, sweets and drinks.",
+            "details": "A blue synthetic coal tar dye often used in conjunction with E102, Tartrazine, to produce various shades of green."
+        },
+        {
+            "id": 26,
+            "code": "E140",
+            "name": "Chlorophylls and chlorophyllins",
+            "function": "food coloring (green)",
+            "warnings": "Has no maximum recommended daily intake and is not subject to any prohibitions.",
+            "status": "",
+            "foods": "Used for dyeing waxes and oils, used in medicines and cosmetics eg in chewing gum, fats and oils, ice cream, soaps, soups, sweets and, obviously, green vegetables.",
+            "details": "A fairly unstable dye, which tends to fade easily."
+        },
+        {
+            "id": 27,
+            "code": "E141",
+            "name": "Copper complexes of chlorophylls and chlorophyllins",
+            "function": "food coloring (green)",
+            "warnings": "No adverse effects are known.",
+            "status": "",
+            "foods": "Found in some types of cheese, chewing gum, ice cream, Parsley sauce, soups and green vegetables and fruits preserved in liquids.",
+            "details": "Derived from Chlorophyll, E140, by substitution of copper for the magnesium, which increases stability."
+        },
+        {
+            "id": 28,
+            "code": "E142",
+            "name": "Green S",
+            "function": "food coloring (green)",
+            "warnings": "Known to cause hyperactivity, asthma, uticaria, and insomnia. HACSG recommends to avoid it.",
+            "status": "Unpermitted (Banned in Canada, Finland, Japan, Norway, Sweden and the US.)",
+            "foods": "Desserts, gravy granules, ice cream, mint sauce, sweets, packet breadcrumbs, cake mixes and tinned peas.",
+            "details": "A green synthetic coal tar dye."
+        },
+        {
+            "id": 29,
+            "code": "E143",
+            "name": "Fast Green FCF (FD&C Green 3)",
+            "function": "food coloring (sea green)",
+            "warnings": "Found to have Tumorigenic effects in experimental animals, as well as Mutagenic effects in both experimental animals and humans. It furthermore risks irritation of eyes, skin, digestive tract, and respiratory tract in its undiluted form.",
+            "status": "",
+            "foods": "It can be used for tinned green peas and other vegetables, jellies, sauces, fish, desserts, and dry bakery mixes at level of up to 100 mg/kg.",
+            "details": "A sea green triarylmethane food dye."
+        },
+        {
+            "id": 30,
+            "code": "E153",
+            "name": "Vegetable carbon",
+            "function": "food coloring",
+            "warnings": "Suspected as a carcinogenic agent. Vegetarians should note that it can be of animal origin.",
+            "status": "Banned in USA. Still used in Australia.",
+            "foods": "Concentrated fruit juices, jams, jellies and liquorice.",
+            "details": "It is normally derived from burnt vegetable matter."
+        },
+        {
+            "id": 31,
+            "code": "E154",
+            "name": "Brown FK",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "Not permitted (Permitted in UK.)",
+            "foods": "Found mainly in kippers and smoked mackerel but also occasionally in cooked hams and crisps.",
+            "details": "A highly suspect brown mixture of six synthetic azo dyes together with other colourings and sodium chloride and/or sodium sulphate."
+        },
+        {
+            "id": 32,
+            "code": "E155",
+            "name": "Brown HT",
+            "function": "food coloring",
+            "warnings": "Bad reactions in asthmatics and people allergic to aspirin, also known to induce skin sensitivity. HACSG recommends to avoid it.",
+            "status": "Banned in Australia, Austria, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and USA.",
+            "foods": "Chocolate cake mixes.",
+            "details": "A brown synthetic 'coal tar' and azo dye found mainly in chocolate flavour cakes."
+        },
+        {
+            "id": 33,
+            "code": "E160a",
+            "name": "Carotenes",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "",
+            "foods": "Butter and soft margarines, coffee sponge cakes, milk products and soft drinks.",
+            "details": "Orange or yellow plant pigments. Converts to vitamin A in the body."
+        },
+        {
+            "id": 34,
+            "code": "E160b",
+            "name": "Annatto; Bixin; Norbixin",
+            "function": "food coloring",
+            "warnings": "Known to cause urticaria (nettle rash), the HACSG recommends to avoid it.",
+            "status": "Dangerous",
+            "foods": "Cheese, coleslaw, crisps, custard, fish fingers, flavoured instant mashed potato, fruit and cream fillings and toppings, frying oil, ice cream and lollies, icings, liqueurs, low calorie spreads, margarine, meat balls, salad cream and mayonnaise, smoked fish, soft drinks, sponge cakes and puddings, steak and kidney pie pastry and yoghurt.",
+            "details": "A yellow, peach or red vegetable dye obtained from the seed coat of the fruit of the Annatto tree, Bixa orellana."
+        },
+        {
+            "id": 35,
+            "code": "E160c",
+            "name": "Paprika extract; Capsanthian; Capsorubin",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "Not permitted in Australia.",
+            "foods": "Used widely in poultry feed to deepen the colour of egg yolks (see also E161b) it can also be found in cheese slices and chicken pies.",
+            "details": "An orange to red color extracted from the fruit pod and seeds of the red pepper, Capsicum annuum."
+        },
+        {
+            "id": 36,
+            "code": "E160d",
+            "name": "Lycopene",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "Not permitted in Australia.",
+            "foods": "Canned tomatoes.",
+            "details": "A red colour extracted from tomatoes and pink grapefruit."
+        },
+        {
+            "id": 37,
+            "code": "E160e",
+            "name": "Beta-apo-8' carotenal (C30)",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "",
+            "foods": "Processed cheese.",
+            "details": "Orange-yellow synthetic colour."
+        },
+        {
+            "id": 38,
+            "code": "E160f",
+            "name": "Ethyl ester of beta-apo-8'-carotenic acid (C 30)",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "",
+            "foods": "Cheese",
+            "details": "Synthesised version of a naturally-occuring orange colour."
+        },
+        {
+            "id": 39,
+            "code": "E161b",
+            "name": "Lutein",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "",
+            "foods": "Eggs",
+            "details": "Yellow-red colour extracted from plants. related to the carotenes (E160a). Can be added to chicken feed to enhance colour of egg yolk."
+        },
+        {
+            "id": 40,
+            "code": "E161g",
+            "name": "Canthaxanthin",
+            "function": "food coloring",
+            "warnings": "Found to accumulate on the retina, having a detrimental effect on eyesight.",
+            "status": "",
+            "foods": "Used in such products as chicken in breadcrumbs, fish fingers, mallow biscuits, pickles and preserves, sauces and sweets it is also fed to laying hens to make to colour egg yolks.",
+            "details": "Yellow color, historically it was prepared from shrimp waste or flaming feathers. Synthetic cantaxanthin is cheaper and has higher purity."
+        },
+        {
+            "id": 41,
+            "code": "E162",
+            "name": "Beetroot Red; Betanin",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "",
+            "foods": "Bacon burgers, desserts, ice cream, jams, jellies, liquorice, oxtail soup, sauces and sweets.",
+            "details": "purple color derived from beets"
+        },
+        {
+            "id": 42,
+            "code": "E163",
+            "name": "Anthocyanins",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "Safe",
+            "foods": "Black cherry yoghurt, dairy products, glacé cherries, ice cream, jellies, pickles, soft drinks, tomato, carrot or vegetable soups and sweets.",
+            "details": "Red-blue colours that are obtained from a variety of plant sources, especially grapes and red cabbage."
+        },
+        {
+            "id": 43,
+            "code": "E170",
+            "name": "Calcium carbonate",
+            "function": "food coloring",
+            "warnings": "Toxic at 'high doses'.",
+            "status": "",
+            "foods": "Biscuits, bread, cakes, ice cream, sweets, vitamin and other tablets and to firm canned fruit and vegetables, it is sometimes used for to deacidify wine. Also used in toothpastes, white paint and cleaning powders.",
+            "details": "Chalk. Used as a white colour. As it is an alkali, it may be also used to regulate the pH of foods such as canned fruits and vegetables."
+        },
+        {
+            "id": 44,
+            "code": "E171",
+            "name": "Titanium dioxide",
+            "function": "food coloring (pure white)",
+            "warnings": "Safe but pollutes waterways.",
+            "status": "",
+            "foods": "Tablets and capsules, cottage and Mozzarella cheeses, horseradish cream and sauces, lemon curd, toothpaste, and white paint, also in sweets.",
+            "details": "White, mineral-based colour."
+        },
+        {
+            "id": 45,
+            "code": "E172",
+            "name": "Iron oxides and hydroxides",
+            "function": "food coloring",
+            "warnings": "Toxic at 'high doses'.",
+            "status": "Banned in Germany.",
+            "foods": "Cake and dessert mixes, meat paste, salmon and shrimp paste.",
+            "details": "Naturally occurring pigments of iron, which can be yellow, red, orange, brown or black in colour."
+        },
+        {
+            "id": 46,
+            "code": "E173",
+            "name": "Aluminium",
+            "function": "food coloring",
+            "warnings": "Potentially toxic.",
+            "status": "Not permitted.",
+            "foods": "Used solely for external decoration.",
+            "details": "Silvery-white metal smelted from the ore, Bauxite."
+        },
+        {
+            "id": 47,
+            "code": "E174",
+            "name": "Silver",
+            "function": "food coloring",
+            "warnings": "Long, regular consumption can lead to kidney damage and a blue-grey discoloration of the eyes, nose and nasal septum, throat and skin.",
+            "status": "Not permitted.",
+            "foods": "Used solely for external decoration.",
+            "details": "Silver coloured surface coating."
+        },
+        {
+            "id": 48,
+            "code": "E175",
+            "name": "Gold",
+            "function": "food coloring",
+            "warnings": "Harmless, but best avoided.",
+            "status": "Not permitted in Australia.",
+            "foods": "Used solely for external decoration.",
+            "details": "Gold coloured surface coating."
+        },
+        {
+            "id": 49,
+            "code": "E180",
+            "name": "Pigment Rubine; Lithol Rubine BK",
+            "function": "food coloring",
+            "warnings": "People who suffer from asthma, rhinitis or the skin disease urticaria may find their symptoms become worse following consumption of azo dyes.",
+            "status": "Not permitted",
+            "foods": "Exterior of hard cheese.",
+            "details": "Red synthetic colour."
+        },
+        {
+            "id": 50,
+            "code": "E181",
+            "name": "Tannin",
+            "function": "food coloring",
+            "warnings": "",
+            "status": "",
+            "foods": "Clarifying agent in alcohol.",
+            "details": "Derived from the nutgalls and twigs of oak trees; occurs naturally in tea."
+        }
 
     ],
-    "preservatives": [
+        "preservatives": [
         {
             "id": 1,
             "code": "E200",
@@ -1035,13 +1036,13 @@
             "details": "Naturally occuring compound. Derived from plants of the genus Fumaria."
         }
     ],
-    "antioxidants, acidity regulators": [
+        "antioxidants, acidity regulators": [
         {
             "id": 1,
             "code": "E300",
             "name": "Ascorbic acid",
             "function": "antioxidant",
-            "warnings": "", 
+            "warnings": "",
             "status": "Safe",
             "foods": "Beers, cut fruits, jams, dried potato.",
             "details": "Helps to prevent cut and pulped foods from going brown by preventing the oxidation reactions that cause the discolouration. Can be added to foods, such as potato, to replace vitamin C lost in processing."
@@ -1558,7 +1559,7 @@
         }
 
     ],
-    "thickeners, stabilizers, emulsifiers":[
+        "thickeners, stabilizers, emulsifiers":[
         {
             "id": 1,
             "code": "E400",
@@ -2271,7 +2272,7 @@
         }
 
     ],
-    "acidity regulators, anti-caking agents": [
+        "acidity regulators, anti-caking agents": [
         {
             "id": 1,
             "code": "E500",
@@ -2804,7 +2805,7 @@
         }
 
     ],
-    "flavour enhancers": [
+        "flavour enhancers": [
         {
             "id": 1,
             "code": "E620",
@@ -3006,7 +3007,7 @@
             "details": "Zinc salt of acetic acid. Acts as a breth-freshener."
         }
     ],
-    "antibiotics": [
+        "antibiotics": [
         {
             "id": 1,
             "code": "E710",
@@ -3028,7 +3029,7 @@
             "details": "Tylosin is an antibiotic, produced by the mould Streptomyces fradiae."
         }
     ],
-    "miscellaneous": [
+        "miscellaneous": [
         {
             "id": 1,
             "code": "E900",
@@ -3430,7 +3431,7 @@
             "details": "Extracted from the bark of the soap tree (Quillaia saponaria). The tree is native to China and Peru and is commercially cultivated in southern California. Known to promote healing and reduce excessive oiliness in the skin."
         }
     ],
-    "other chemicals": [
+        "other chemicals": [
         {
             "id": 1,
             "code": "E1100",
@@ -3692,4 +3693,5 @@
             "details": "Helps to prevent the food it is added to from drying out."
         }
     ]
+
 }
