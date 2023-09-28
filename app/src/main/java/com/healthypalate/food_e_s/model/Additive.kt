@@ -1,12 +1,12 @@
 package com.healthypalate.food_e_s.model
 
 class Additive {
-    val id: Int = 0
-    val code: String = ""
-    val name: String = ""
-    val function: String = ""
-    val warnings: String = ""
-    val status: String = ""
-    val foods: String = ""
-    val details: String = ""
+    var id: Int = 0
+    var code: String = ""
+    var name: String = ""
+    var function: String = ""
+    var warnings: String = ""
+    var status: String = ""
+    var foods: String = ""
+    var details: String = ""
 }

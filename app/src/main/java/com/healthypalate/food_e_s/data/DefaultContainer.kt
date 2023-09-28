@@ -17,5 +17,4 @@ class DefaultContainer(context: Context): ApplicationContainer{
     override val repository: FoodEsRepository by lazy{
         JSONRepository(JSONObject(aRawJSON))
     }
-
 }
